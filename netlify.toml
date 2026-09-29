@@ -1,0 +1,5 @@
+# Published by To The Max Media. The site/ folder is the finished website:
+# Netlify serves it as is, with no build step.
+[build]
+  publish = "site"
+  command = ""
