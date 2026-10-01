@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Fannon Property Services">
+  <rect width="64" height="64" rx="10" fill="#00121c"/>
+  <path d="M6 35 32 8l26 27" fill="none" stroke="#328dd9" stroke-width="5" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M12 34 25 21l10 10 5-5 12 12" fill="none" stroke="#f1eee6" stroke-width="4" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M18 48h28" stroke="#328dd9" stroke-width="4"/>
+  <path d="M27 37h4v4h-4zm6 0h4v4h-4z" fill="#f1eee6"/>
+</svg>
