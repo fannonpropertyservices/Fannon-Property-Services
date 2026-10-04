@@ -1,0 +1,5 @@
+# Netlify: the service walkthrough's frames and the hashed build files can be kept by the browser.
+/assets/cinema/*
+  Cache-Control: public, max-age=86400
+/_astro/*
+  Cache-Control: public, max-age=31536000, immutable
