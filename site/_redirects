@@ -1,3 +1,4 @@
+https://fannonpreview.netlify.app/* https://fannonpropertyservices.com/:splat 301!
 /crofton/  /service-area/crofton/  301
 /kent-island/  /service-area/kent-island/  301
 /severna-park/  /service-area/severna-park/  301
@@ -5,3 +6,9 @@
 /riva/  /service-area/riva/  301
 /annapolis-neck/  /service-area/annapolis-neck/  301
 /arnold/  /service-area/arnold/  301
+# Held until the licence question is answered (2026-10-06): the page is off, visitors land on its main service page.
+/gutters/gutter-guards/  /gutters/  302
+/landscape-maintenance/mulch-planting-beds/  /landscape-maintenance/  302
+/landscape-maintenance/sod-installation/  /landscape-maintenance/  302
+/exterior-cleaning/paver-cleaning-sealing/  /exterior-cleaning/  302
+/drainage/french-drains/  /drainage/  302
