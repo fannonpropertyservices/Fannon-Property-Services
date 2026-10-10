@@ -1,4 +1,6 @@
 https://fannonpreview.netlify.app/* https://fannonpropertyservices.com/:splat 301!
+# /sitemap.xml is the address people and tools guess; it serves the real sitemap index (the build names it sitemap-index.xml).
+/sitemap.xml  /sitemap-index.xml  200
 /crofton/  /service-area/crofton/  301
 /kent-island/  /service-area/kent-island/  301
 /severna-park/  /service-area/severna-park/  301
