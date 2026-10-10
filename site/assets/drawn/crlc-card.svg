@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+<defs><radialGradient id="crlc-cd-bg" cx="50%" cy="38%" r="75%"><stop offset="0" stop-color="#0d4563"/><stop offset="1" stop-color="#082f45"/></radialGradient><clipPath id="crlc-cd-clip"><rect x="3" y="3" width="794" height="594" rx="26"/></clipPath></defs>
+<rect x="3" y="3" width="794" height="594" rx="26" fill="url(#crlc-cd-bg)"/>
+<g clip-path="url(#crlc-cd-clip)">
+<rect x="70" y="160" width="132" height="170" fill="#f1eee6"/>
+<rect x="88" y="186" width="30" height="28" fill="#0d4563" opacity=".7"/>
+<rect x="152" y="186" width="30" height="28" fill="#0d4563" opacity=".7"/>
+<rect x="120" y="272" width="32" height="58" fill="#0d4563" opacity=".85"/>
+<rect x="202" y="160" width="132" height="170" fill="#e8eff3"/>
+<rect x="220" y="186" width="30" height="28" fill="#0d4563" opacity=".7"/>
+<rect x="284" y="186" width="30" height="28" fill="#0d4563" opacity=".7"/>
+<rect x="252" y="272" width="32" height="58" fill="#0d4563" opacity=".85"/>
+<rect x="334" y="160" width="132" height="170" fill="#f1eee6"/>
+<rect x="352" y="186" width="30" height="28" fill="#0d4563" opacity=".7"/>
+<rect x="416" y="186" width="30" height="28" fill="#0d4563" opacity=".7"/>
+<rect x="384" y="272" width="32" height="58" fill="#0d4563" opacity=".85"/>
+<rect x="466" y="160" width="132" height="170" fill="#e8eff3"/>
+<rect x="484" y="186" width="30" height="28" fill="#0d4563" opacity=".7"/>
+<rect x="548" y="186" width="30" height="28" fill="#0d4563" opacity=".7"/>
+<rect x="516" y="272" width="32" height="58" fill="#0d4563" opacity=".85"/>
+<rect x="598" y="160" width="132" height="170" fill="#f1eee6"/>
+<rect x="616" y="186" width="30" height="28" fill="#0d4563" opacity=".7"/>
+<rect x="680" y="186" width="30" height="28" fill="#0d4563" opacity=".7"/>
+<rect x="648" y="272" width="32" height="58" fill="#0d4563" opacity=".85"/>
+<path d="M54 160 L110 96 H690 L746 160 Z" fill="#328dd9"/>
+<rect x="50" y="157" width="700" height="11" rx="3" fill="#ffffff"/>
+<rect x="0" y="330" width="800" height="16" fill="#c8d7de"/>
+<path d="M0 346 L89 346 L-67 600 L-200 600 Z" fill="#4e7d3a"/>
+<path d="M89 346 L178 346 L67 600 L-67 600 Z" fill="#7fb069"/>
+<path d="M178 346 L267 346 L200 600 L67 600 Z" fill="#4e7d3a"/>
+<path d="M267 346 L356 346 L333 600 L200 600 Z" fill="#7fb069"/>
+<path d="M356 346 L444 346 L467 600 L333 600 Z" fill="#4e7d3a"/>
+<path d="M444 346 L533 346 L600 600 L467 600 Z" fill="#7fb069"/>
+<path d="M533 346 L622 346 L733 600 L600 600 Z" fill="#4e7d3a"/>
+<path d="M622 346 L711 346 L867 600 L733 600 Z" fill="#7fb069"/>
+<path d="M711 346 L800 346 L1000 600 L867 600 Z" fill="#4e7d3a"/>
+<rect x="740" y="120" width="16" height="220" fill="#c8d7de"/>
+<circle cx="757.0" cy="81.2" r="39.1" fill="#1868ac"/>
+<circle cx="798.0" cy="65.0" r="36.8" fill="#328dd9"/>
+<circle cx="731.6" cy="89.2" r="41.9" fill="#5aa7e2"/>
+<circle cx="800.3" cy="139.8" r="36.5" fill="#1868ac"/>
+<circle cx="789.6" cy="71.3" r="37.3" fill="#328dd9"/>
+<circle cx="744.6" cy="68.2" r="38.1" fill="#5aa7e2"/>
+<circle cx="734.2" cy="97.0" r="32.7" fill="#1868ac"/>
+<circle cx="766.8" cy="74.2" r="31.9" fill="#328dd9"/>
+<circle cx="789.2" cy="91.4" r="38.8" fill="#5aa7e2"/>
+<circle cx="773.3" cy="135.6" r="42.4" fill="#1868ac"/>
+</g>
+</svg>

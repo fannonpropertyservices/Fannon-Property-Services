@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+<defs><radialGradient id="angc-cd-bg" cx="50%" cy="38%" r="75%"><stop offset="0" stop-color="#0d4563"/><stop offset="1" stop-color="#082f45"/></radialGradient><clipPath id="angc-cd-clip"><rect x="3" y="3" width="794" height="594" rx="26"/></clipPath></defs>
+<rect x="3" y="3" width="794" height="594" rx="26" fill="url(#angc-cd-bg)"/>
+<g clip-path="url(#angc-cd-clip)">
+<rect x="0" y="0" width="800" height="600" fill="#082f45" opacity=".2"/>
+<rect x="0" y="300" width="800" height="70" fill="#1868ac"/>
+<path d="M0 320 h800 M0 345 h800" stroke="#5aa7e2" stroke-width="3" stroke-dasharray="40 30"/>
+<rect x="0" y="480" width="800" height="120" fill="#c8d7de" opacity=".9"/><rect x="0" y="480" width="800" height="10" fill="#e8eff3" opacity=".9"/>
+<rect x="0" y="500" width="800" height="36" fill="#e8eff3" opacity=".55"/>
+<rect x="140" y="260" width="20" height="220" fill="#c8d7de"/><circle cx="111.6" cy="215.1" r="69.0" fill="#1868ac"/>
+<circle cx="227.0" cy="194.2" r="64.2" fill="#328dd9"/>
+<circle cx="129.0" cy="216.1" r="72.6" fill="#5aa7e2"/>
+<circle cx="232.8" cy="261.9" r="75.3" fill="#1868ac"/>
+<circle cx="75.1" cy="178.7" r="75.5" fill="#328dd9"/>
+<circle cx="160.6" cy="167.0" r="66.6" fill="#5aa7e2"/>
+<circle cx="223.2" cy="177.5" r="59.2" fill="#1868ac"/>
+<circle cx="95.1" cy="267.7" r="55.1" fill="#328dd9"/>
+<circle cx="109.4" cy="159.1" r="52.3" fill="#5aa7e2"/>
+<circle cx="68.7" cy="150.0" r="64.0" fill="#1868ac"/>
+<circle cx="116.0" cy="194.0" r="65.4" fill="#328dd9"/>
+<rect x="640" y="260" width="20" height="220" fill="#c8d7de"/><circle cx="651.0" cy="204.3" r="64.8" fill="#1868ac"/>
+<circle cx="630.5" cy="250.5" r="53.9" fill="#328dd9"/>
+<circle cx="641.7" cy="241.8" r="66.2" fill="#5aa7e2"/>
+<circle cx="718.2" cy="184.4" r="59.3" fill="#1868ac"/>
+<circle cx="617.2" cy="165.5" r="51.6" fill="#328dd9"/>
+<circle cx="652.3" cy="185.5" r="65.4" fill="#5aa7e2"/>
+<circle cx="727.5" cy="269.9" r="70.9" fill="#1868ac"/>
+<circle cx="621.6" cy="196.0" r="74.2" fill="#328dd9"/>
+<circle cx="605.3" cy="249.2" r="56.2" fill="#5aa7e2"/>
+<circle cx="641.2" cy="217.0" r="75.9" fill="#1868ac"/>
+<circle cx="688.9" cy="251.1" r="59.1" fill="#328dd9"/>
+<rect x="250" y="370" width="130" height="110" fill="#e8eff3"/>
+<path d="M240 370 L315.0 316 L390 370 Z" fill="#328dd9"/>
+<rect x="238" y="368" width="154" height="8" rx="3" fill="#ffffff"/>
+<rect x="384" y="375" width="5" height="105" fill="#ffffff" opacity=".85"/>
+<rect x="304.0" y="442" width="22" height="38" fill="#0d4563" opacity=".85"/>
+<rect x="272.5" y="388.0" width="20" height="18" fill="#0d4563" opacity=".7"/>
+<rect x="337.5" y="388.0" width="20" height="18" fill="#0d4563" opacity=".7"/>
+<rect x="420" y="370" width="130" height="110" fill="#e8eff3"/>
+<path d="M410 370 L485.0 316 L560 370 Z" fill="#328dd9"/>
+<rect x="408" y="368" width="154" height="8" rx="3" fill="#ffffff"/>
+<rect x="554" y="375" width="5" height="105" fill="#ffffff" opacity=".85"/>
+<rect x="474.0" y="442" width="22" height="38" fill="#0d4563" opacity=".85"/>
+<rect x="442.5" y="388.0" width="20" height="18" fill="#0d4563" opacity=".7"/>
+<rect x="507.5" y="388.0" width="20" height="18" fill="#0d4563" opacity=".7"/>
+</g>
+</svg>

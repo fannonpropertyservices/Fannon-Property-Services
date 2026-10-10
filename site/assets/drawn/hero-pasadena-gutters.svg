@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 800" width="900" height="800">
+<defs><radialGradient id="pasadena-hero-bg" cx="55%" cy="55%" r="80%"><stop offset="0" stop-color="#0d4563"/><stop offset="1" stop-color="#082f45"/></radialGradient></defs>
+<rect width="900" height="800" fill="url(#pasadena-hero-bg)"/>
+<svg x="0" y="0" width="900" height="800" viewBox="0 0 800 600" preserveAspectRatio="xMidYMax slice"><g transform="translate(800 0) scale(-1 1)">
+<defs><radialGradient id="pagc-ls-bg-h" cx="50%" cy="38%" r="75%"><stop offset="0" stop-color="#0d4563"/><stop offset="1" stop-color="#082f45"/></radialGradient><clipPath id="pagc-ls-clip-h"><rect x="0" y="0" width="800" height="600"/></clipPath></defs>
+
+<g clip-path="url(#pagc-ls-clip-h)">
+<rect x="0" y="470" width="800" height="130" fill="#c8d7de" opacity=".9"/><rect x="0" y="470" width="800" height="10" fill="#e8eff3" opacity=".9"/>
+<rect x="146" y="410.0" width="8" height="60.0" fill="#c8d7de"/><path d="M150 170 L216.0 305.0 L186.0 305.0 L240.0 416.0 L60.0 416.0 L114.0 305.0 L84.0 305.0 Z" fill="#2a80cc"/>
+<rect x="221" y="424.0" width="8" height="46.0" fill="#c8d7de"/><path d="M225 240 L275.6 343.5 L252.6 343.5 L294.0 428.6 L156.0 428.6 L197.4 343.5 L174.4 343.5 Z" fill="#328dd9"/>
+<rect x="634" y="331.4" width="12" height="138.6" fill="#c8d7de"/><circle cx="577.0" cy="286.8" r="65.2" fill="#1868ac"/>
+<circle cx="636.1" cy="233.3" r="69.5" fill="#328dd9"/>
+<circle cx="697.9" cy="266.8" r="61.6" fill="#5aa7e2"/>
+<circle cx="590.4" cy="209.3" r="57.9" fill="#1868ac"/>
+<circle cx="656.1" cy="216.8" r="69.6" fill="#328dd9"/>
+<circle cx="589.6" cy="235.2" r="48.8" fill="#5aa7e2"/>
+<circle cx="733.6" cy="292.3" r="71.8" fill="#1868ac"/>
+<circle cx="661.8" cy="212.8" r="56.7" fill="#328dd9"/>
+<circle cx="639.5" cy="222.0" r="73.9" fill="#5aa7e2"/>
+<rect x="300" y="320" width="230" height="150" fill="#e8eff3"/>
+<path d="M290 320 L415.0 240 L540 320 Z" fill="#328dd9"/>
+<rect x="288" y="318" width="254" height="9" rx="3" fill="#ffffff"/>
+<rect x="534" y="325" width="6" height="145" fill="#ffffff" opacity=".85"/>
+<rect x="402.0" y="426" width="26" height="44" fill="#0d4563" opacity=".85"/>
+<rect x="364.7" y="342.0" width="24" height="20" fill="#0d4563" opacity=".7"/>
+<rect x="441.3" y="342.0" width="24" height="20" fill="#0d4563" opacity=".7"/>
+</g>
+</g></svg>
+</svg>

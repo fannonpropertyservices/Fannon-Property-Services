@@ -1,4 +1,4 @@
-# Search engines and AI answer engines are welcome: they are how customers find this business.
+# Search engines, AI answer engines and the assistants that open a page when a person asks are welcome: they are how customers find this business.
 User-agent: Googlebot
 User-agent: Bingbot
 User-agent: OAI-SearchBot
@@ -7,12 +7,12 @@ User-agent: Claude-SearchBot
 User-agent: GPTBot
 User-agent: ClaudeBot
 User-agent: Google-Extended
+User-agent: ChatGPT-User
+User-agent: Claude-User
+User-agent: Perplexity-User
 Allow: /
 
 User-agent: *
 Allow: /
-
-User-agent: CCBot
-Disallow: /
 
 Sitemap: https://fannonpropertyservices.com/sitemap-index.xml

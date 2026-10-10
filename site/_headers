@@ -12,3 +12,246 @@
   Cache-Control: public, max-age=604800
 /assets/brand/*
   Cache-Control: public, max-age=604800
+
+# sitekit:ai-files start (written by the build from site.json search.aiFiles; do not edit)
+/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/about/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/about/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/christmas-lights/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/christmas-lights/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/christmas-lights/measure-your-roofline/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/christmas-lights/measure-your-roofline/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/commercial/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/commercial/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/drainage/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/drainage/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/estimates/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/estimates/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/exterior-cleaning/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/exterior-cleaning/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/exterior-cleaning/house-washing/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/exterior-cleaning/house-washing/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/guides/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/guides/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/guides/christmas-light-clips-shingles-gutters/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/guides/christmas-light-clips-shingles-gutters/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/guides/fall-yard-checklist/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/guides/fall-yard-checklist/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/guides/how-deep-should-mulch-be/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/guides/how-deep-should-mulch-be/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/guides/how-often-to-clean-gutters/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/guides/how-often-to-clean-gutters/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/guides/maryland-lawn-calendar/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/guides/maryland-lawn-calendar/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/guides/mulch-leaves-or-rake/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/guides/mulch-leaves-or-rake/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/guides/standing-water-in-yard/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/guides/standing-water-in-yard/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/guides/what-happens-if-gutters-are-clogged/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/guides/what-happens-if-gutters-are-clogged/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/guides/when-to-aerate-and-overseed/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/guides/when-to-aerate-and-overseed/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/guides/where-should-downspouts-drain/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/guides/where-should-downspouts-drain/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/guides/yard-waste-and-leaf-pickup-rules/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/guides/yard-waste-and-leaf-pickup-rules/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/gutters/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/gutters/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/holiday-lighting/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/holiday-lighting/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/landscape-maintenance/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/landscape-maintenance/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/landscape-maintenance/aeration-overseeding/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/landscape-maintenance/aeration-overseeding/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/service-area/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/service-area/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/service-area/annapolis-neck/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/service-area/annapolis-neck/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/service-area/annapolis-neck/gutter-cleaning/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/service-area/annapolis-neck/gutter-cleaning/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/service-area/annapolis-neck/lawn-care/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/service-area/annapolis-neck/lawn-care/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/service-area/arnold/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/service-area/arnold/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/service-area/arnold/christmas-lights/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/service-area/arnold/christmas-lights/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/service-area/arnold/gutter-cleaning/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/service-area/arnold/gutter-cleaning/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/service-area/arnold/lawn-care/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/service-area/arnold/lawn-care/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/service-area/crofton/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/service-area/crofton/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/service-area/crofton/christmas-lights/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/service-area/crofton/christmas-lights/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/service-area/crofton/gutter-cleaning/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/service-area/crofton/gutter-cleaning/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/service-area/crofton/lawn-care/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/service-area/crofton/lawn-care/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/service-area/crownsville/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/service-area/crownsville/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/service-area/crownsville/gutter-cleaning/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/service-area/crownsville/gutter-cleaning/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/service-area/crownsville/lawn-care/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/service-area/crownsville/lawn-care/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/service-area/edgewater/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/service-area/edgewater/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/service-area/edgewater/christmas-lights/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/service-area/edgewater/christmas-lights/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/service-area/edgewater/gutter-cleaning/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/service-area/edgewater/gutter-cleaning/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/service-area/edgewater/lawn-care/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/service-area/edgewater/lawn-care/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/service-area/kent-island/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/service-area/kent-island/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/service-area/kent-island/christmas-lights/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/service-area/kent-island/christmas-lights/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/service-area/kent-island/gutter-cleaning/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/service-area/kent-island/gutter-cleaning/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/service-area/kent-island/lawn-care/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/service-area/kent-island/lawn-care/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/service-area/pasadena/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/service-area/pasadena/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/service-area/pasadena/christmas-lights/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/service-area/pasadena/christmas-lights/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/service-area/pasadena/gutter-cleaning/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/service-area/pasadena/gutter-cleaning/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/service-area/pasadena/lawn-care/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/service-area/pasadena/lawn-care/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/service-area/riva/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/service-area/riva/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/service-area/riva/gutter-cleaning/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/service-area/riva/gutter-cleaning/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/service-area/riva/lawn-care/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/service-area/riva/lawn-care/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/service-area/severna-park/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/service-area/severna-park/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/service-area/severna-park/christmas-lights/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/service-area/severna-park/christmas-lights/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/service-area/severna-park/gutter-cleaning/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/service-area/severna-park/gutter-cleaning/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/service-area/severna-park/lawn-care/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/service-area/severna-park/lawn-care/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/services/index.md
+  X-Robots-Tag: noindex
+  Link: <https://fannonpropertyservices.com/services/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+# sitekit:ai-files end

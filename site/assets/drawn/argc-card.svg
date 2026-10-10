@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+<defs><radialGradient id="argc-cd-bg" cx="50%" cy="38%" r="75%"><stop offset="0" stop-color="#0d4563"/><stop offset="1" stop-color="#082f45"/></radialGradient><clipPath id="argc-cd-clip"><rect x="3" y="3" width="794" height="594" rx="26"/></clipPath></defs>
+<rect x="3" y="3" width="794" height="594" rx="26" fill="url(#argc-cd-bg)"/>
+<g clip-path="url(#argc-cd-clip)">
+<rect x="0" y="500" width="800" height="100" fill="#c8d7de" opacity=".9"/><rect x="0" y="500" width="800" height="10" fill="#e8eff3" opacity=".9"/>
+<rect x="141" y="150" width="18" height="350" fill="#c8d7de"/>
+<circle cx="124.3" cy="135.8" r="38.0" fill="#1868ac"/>
+<circle cx="160.2" cy="146.6" r="32.6" fill="#328dd9"/>
+<circle cx="102.3" cy="174.5" r="36.0" fill="#5aa7e2"/>
+<circle cx="124.0" cy="195.4" r="39.7" fill="#1868ac"/>
+<circle cx="183.0" cy="126.9" r="42.7" fill="#328dd9"/>
+<circle cx="115.8" cy="147.8" r="46.7" fill="#5aa7e2"/>
+<circle cx="152.3" cy="161.8" r="43.2" fill="#1868ac"/>
+<circle cx="107.3" cy="164.1" r="41.8" fill="#328dd9"/>
+<circle cx="130.5" cy="68.1" r="46.6" fill="#5aa7e2"/>
+<circle cx="147.3" cy="158.9" r="46.9" fill="#1868ac"/>
+<circle cx="171.0" cy="185.6" r="38.4" fill="#328dd9"/>
+<rect x="321" y="100" width="18" height="400" fill="#c8d7de"/>
+<circle cx="304.1" cy="27.6" r="38.4" fill="#1868ac"/>
+<circle cx="296.2" cy="22.8" r="38.5" fill="#328dd9"/>
+<circle cx="371.0" cy="119.7" r="44.9" fill="#5aa7e2"/>
+<circle cx="302.7" cy="84.8" r="36.3" fill="#1868ac"/>
+<circle cx="297.9" cy="28.0" r="35.3" fill="#328dd9"/>
+<circle cx="371.9" cy="123.4" r="45.6" fill="#5aa7e2"/>
+<circle cx="359.4" cy="39.5" r="36.9" fill="#1868ac"/>
+<circle cx="342.4" cy="110.6" r="46.5" fill="#328dd9"/>
+<circle cx="367.2" cy="25.4" r="42.1" fill="#5aa7e2"/>
+<circle cx="346.8" cy="80.8" r="34.6" fill="#1868ac"/>
+<circle cx="327.4" cy="25.8" r="47.9" fill="#328dd9"/>
+<rect x="601" y="120" width="18" height="380" fill="#c8d7de"/>
+<circle cx="622.0" cy="131.9" r="45.4" fill="#1868ac"/>
+<circle cx="653.4" cy="131.7" r="47.6" fill="#328dd9"/>
+<circle cx="563.8" cy="95.5" r="48.0" fill="#5aa7e2"/>
+<circle cx="624.6" cy="152.9" r="33.5" fill="#1868ac"/>
+<circle cx="607.0" cy="66.5" r="41.0" fill="#328dd9"/>
+<circle cx="617.2" cy="35.7" r="35.3" fill="#5aa7e2"/>
+<circle cx="588.4" cy="155.0" r="44.9" fill="#1868ac"/>
+<circle cx="576.6" cy="139.2" r="33.9" fill="#328dd9"/>
+<circle cx="621.5" cy="50.7" r="31.5" fill="#5aa7e2"/>
+<circle cx="646.4" cy="61.6" r="35.3" fill="#1868ac"/>
+<circle cx="657.3" cy="149.2" r="36.6" fill="#328dd9"/>
+<rect x="380" y="380" width="230" height="120" fill="#e8eff3"/>
+<path d="M370 380 L495.0 322 L620 380 Z" fill="#328dd9"/>
+<rect x="368" y="378" width="254" height="8" rx="3" fill="#ffffff"/>
+<rect x="614" y="385" width="5" height="115" fill="#ffffff" opacity=".85"/>
+<rect x="484.0" y="462" width="22" height="38" fill="#0d4563" opacity=".85"/>
+<rect x="427.5" y="398.0" width="20" height="18" fill="#0d4563" opacity=".7"/>
+<rect x="542.5" y="398.0" width="20" height="18" fill="#0d4563" opacity=".7"/>
+<ellipse cx="473.5" cy="298.5" rx="6.6" ry="3.3" fill="#5aa7e2" transform="rotate(44 473.5 298.5)"/>
+<ellipse cx="332.0" cy="315.4" rx="9.6" ry="4.8" fill="#5aa7e2" transform="rotate(-50 332.0 315.4)"/>
+<ellipse cx="501.8" cy="330.2" rx="6.2" ry="3.1" fill="#5aa7e2" transform="rotate(-15 501.8 330.2)"/>
+<ellipse cx="548.1" cy="308.8" rx="8.9" ry="4.5" fill="#5aa7e2" transform="rotate(-41 548.1 308.8)"/>
+<ellipse cx="403.8" cy="264.4" rx="8.0" ry="4.0" fill="#5aa7e2" transform="rotate(51 403.8 264.4)"/>
+<ellipse cx="513.0" cy="350.6" rx="7.5" ry="3.8" fill="#5aa7e2" transform="rotate(30 513.0 350.6)"/>
+<ellipse cx="361.5" cy="287.9" rx="8.7" ry="4.3" fill="#5aa7e2" transform="rotate(27 361.5 287.9)"/>
+<ellipse cx="460.7" cy="261.4" rx="7.1" ry="3.5" fill="#5aa7e2" transform="rotate(-35 460.7 261.4)"/>
+<ellipse cx="417.2" cy="355.2" rx="6.8" ry="3.4" fill="#5aa7e2" transform="rotate(46 417.2 355.2)"/>
+<ellipse cx="602.6" cy="257.1" rx="7.5" ry="3.8" fill="#5aa7e2" transform="rotate(-1 602.6 257.1)"/>
+<ellipse cx="337.3" cy="305.2" rx="9.6" ry="4.8" fill="#5aa7e2" transform="rotate(-47 337.3 305.2)"/>
+<ellipse cx="515.0" cy="265.8" rx="8.3" ry="4.2" fill="#5aa7e2" transform="rotate(47 515.0 265.8)"/>
+<ellipse cx="392.9" cy="251.1" rx="6.3" ry="3.2" fill="#5aa7e2" transform="rotate(5 392.9 251.1)"/>
+<ellipse cx="335.4" cy="261.0" rx="8.0" ry="4.0" fill="#5aa7e2" transform="rotate(51 335.4 261.0)"/>
+</g>
+</svg>

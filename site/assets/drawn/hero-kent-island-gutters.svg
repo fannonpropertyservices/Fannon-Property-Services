@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 800" width="900" height="800">
+<defs><radialGradient id="kent-island-hero-bg" cx="55%" cy="55%" r="80%"><stop offset="0" stop-color="#0d4563"/><stop offset="1" stop-color="#082f45"/></radialGradient></defs>
+<rect width="900" height="800" fill="url(#kent-island-hero-bg)"/>
+<svg x="0" y="0" width="900" height="800" viewBox="0 0 800 600" preserveAspectRatio="xMidYMax slice"><g transform="translate(800 0) scale(-1 1)">
+<defs><radialGradient id="kigc-cd-bg-h" cx="50%" cy="38%" r="75%"><stop offset="0" stop-color="#0d4563"/><stop offset="1" stop-color="#082f45"/></radialGradient><clipPath id="kigc-cd-clip-h"><rect x="0" y="0" width="800" height="600"/></clipPath></defs>
+
+<g clip-path="url(#kigc-cd-clip-h)">
+<rect x="0" y="330" width="800" height="270" fill="#1868ac" opacity=".55"/>
+<path d="M0 300 H800" stroke="#328dd9" stroke-width="3"/>
+<path d="M40 300 Q200 230 360 300" stroke="#e8eff3" stroke-width="4" fill="none"/>
+<path d="M120 300 V236 M280 300 V236" stroke="#e8eff3" stroke-width="6"/>
+<rect x="0" y="292" width="420" height="8" fill="#e8eff3" opacity=".8"/>
+<path d="M380 470 Q600 430 800 450 V600 H360 Z" fill="#c8d7de"/>
+<rect x="520" y="340" width="200" height="130" fill="#e8eff3"/>
+<path d="M510 340 L620.0 270 L730 340 Z" fill="#328dd9"/>
+<rect x="508" y="338" width="224" height="9" rx="3" fill="#ffffff"/>
+<rect x="724" y="345" width="6" height="125" fill="#ffffff" opacity=".85"/>
+<rect x="607.0" y="426" width="26" height="44" fill="#0d4563" opacity=".85"/>
+<rect x="574.7" y="362.0" width="24" height="20" fill="#0d4563" opacity=".7"/>
+<rect x="641.3" y="362.0" width="24" height="20" fill="#0d4563" opacity=".7"/>
+<path d="M430 150 Q560 126 690 150 T900 150" stroke="#5aa7e2" stroke-width="7" fill="none" stroke-linecap="round" opacity="0.9"/>
+<path d="M460 190 Q590 166 720 190 T900 190" stroke="#5aa7e2" stroke-width="7" fill="none" stroke-linecap="round" opacity="0.7"/>
+<path d="M490 230 Q620 206 750 230 T900 230" stroke="#5aa7e2" stroke-width="7" fill="none" stroke-linecap="round" opacity="0.5"/>
+<path d="M0 400 Q60 390 120 400 T240 400 T360 400" stroke="#e8eff3" stroke-width="4" fill="none" opacity="0.60"/>
+<path d="M0 440 Q60 430 120 440 T240 440 T360 440" stroke="#e8eff3" stroke-width="4" fill="none" opacity="0.52"/>
+<path d="M0 480 Q60 470 120 480 T240 480 T360 480" stroke="#e8eff3" stroke-width="4" fill="none" opacity="0.44"/>
+<path d="M0 520 Q60 510 120 520 T240 520 T360 520" stroke="#e8eff3" stroke-width="4" fill="none" opacity="0.36"/>
+<path d="M0 560 Q60 550 120 560 T240 560 T360 560" stroke="#e8eff3" stroke-width="4" fill="none" opacity="0.28"/>
+</g>
+</g></svg>
+</svg>

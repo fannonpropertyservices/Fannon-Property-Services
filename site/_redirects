@@ -12,3 +12,6 @@ https://fannonpreview.netlify.app/* https://fannonpropertyservices.com/:splat 30
 /landscape-maintenance/sod-installation/  /landscape-maintenance/  302
 /exterior-cleaning/paver-cleaning-sealing/  /exterior-cleaning/  302
 /drainage/french-drains/  /drainage/  302
+# The dark preview the owner was shown (2026-10-09) is now the home page itself.
+/dark  /  301
+/dark/  /  301
