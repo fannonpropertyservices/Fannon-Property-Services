@@ -3,15 +3,13 @@
 > Type each roof edge you want lit and get your Christmas light length in feet, with a drawing that lights up. Measure from the ground first.
 
 Page: https://fannonpropertyservices.com/christmas-lights/measure-your-roofline/  
-Last changed: 2026-10-08
+Last changed: 2026-10-10
 
 ---
 
 # How many feet of lights does your house need?
 
 Add up each roof edge you want lit, in feet. As you type them in, the total and a drawing of the lit edges keep count.
-
-[Call (443) 223-8643](tel:+14432238643)
 
 - Insured
 - Locally owned

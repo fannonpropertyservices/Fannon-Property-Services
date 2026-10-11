@@ -3,15 +3,13 @@
 > Lay mulch 2 to 3 inches deep and keep it off the bark. Over old mulch, add only enough to reach that depth again. We install mulch around Annapolis, Maryland.
 
 Page: https://fannonpropertyservices.com/guides/how-deep-should-mulch-be/  
-Last changed: 2026-10-08
+Last changed: 2026-10-10
 
 ---
 
 # How many inches deep should mulch be?
 
 2 to 3 inches, and never against the bark.
-
-[Call (443) 223-8643](tel:+14432238643)
 
 ![Hostas and small plants in fresh dark mulch along a wooden fence](https://fannonpropertyservices.com/assets/own/portfolio/4dd9de34.webp)
 

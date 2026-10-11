@@ -3,15 +3,13 @@
 > Lawn care, house washing, gutter cleaning and Christmas lights on the Annapolis Neck, including Hillsmere Shores and Bay Ridge. Insured, free estimates.
 
 Page: https://fannonpropertyservices.com/service-area/annapolis-neck/  
-Last changed: 2026-10-09
+Last changed: 2026-10-10
 
 ---
 
 # Yard and house care on the Annapolis Neck.
 
 We mow and mulch, wash siding, driveways and patios, and clear gutters between the South River and the Bay.
-
-[Call (443) 223-8643](tel:+14432238643)
 
 - Insured
 - Locally owned

@@ -3,15 +3,13 @@
 > Estimates are free. Tell us the address and the job, we text or call back, and we visit first when a job has to be seen. Christmas lights start at $650.
 
 Page: https://fannonpropertyservices.com/estimates/  
-Last changed: 2026-10-08
+Last changed: 2026-10-10
 
 ---
 
 # How our free estimates work.
 
 Most of our work is priced for your property, once we know what the job involves.
-
-[Call (443) 223-8643](tel:+14432238643)
 
 - Insured
 - Locally owned

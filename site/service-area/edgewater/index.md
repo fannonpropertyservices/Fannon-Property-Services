@@ -3,15 +3,13 @@
 > Lawn care, landscaping, mulch, planting beds and gutter cleaning in Edgewater and Londontowne, MD, on the South River. We are insured and estimates are free.
 
 Page: https://fannonpropertyservices.com/service-area/edgewater/  
-Last changed: 2026-10-09
+Last changed: 2026-10-10
 
 ---
 
 # Landscaping in Edgewater and Londontowne.
 
 We mow lawns, mulch, plant beds and clean gutters. We are based in Annapolis, across the South River.
-
-[Call (443) 223-8643](tel:+14432238643)
 
 - Insured
 - Locally owned

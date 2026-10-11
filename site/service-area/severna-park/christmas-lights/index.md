@@ -3,15 +3,13 @@
 > Christmas light installation in Severna Park, MD, from $650 for a single-story front roofline. Design, timer, fixes, takedown and storage in one payment.
 
 Page: https://fannonpropertyservices.com/service-area/severna-park/christmas-lights/  
-Last changed: 2026-10-09
+Last changed: 2026-10-10
 
 ---
 
 # Christmas light installation in Severna Park.
 
 Every year the chamber of commerce lights its tree at 1 Holly Avenue. We hang the lights on your house.
-
-[Call (443) 223-8643](tel:+14432238643)
 
 - From $650
 - Insured

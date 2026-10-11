@@ -3,15 +3,13 @@
 > Lawn care in Riva, MD, on rolling, well drained ground by the South River: mowing, aeration and overseeding, and fall leaf removal. Free estimates.
 
 Page: https://fannonpropertyservices.com/service-area/riva/lawn-care/  
-Last changed: 2026-10-09
+Last changed: 2026-10-10
 
 ---
 
 # Riva lawns on rolling ground.
 
 From Riva Road to Sylvan Shores, we mow, aerate and overseed lawns, and clear fallen leaves in the fall.
-
-[Call (443) 223-8643](tel:+14432238643)
 
 - Insured
 - Locally owned

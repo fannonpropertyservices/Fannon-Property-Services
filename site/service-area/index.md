@@ -3,15 +3,13 @@
 > Where Fannon Property Services works: Annapolis, Severna Park, Pasadena, Crofton, Edgewater, Davidsonville and Kent Island out to Chester. Free estimates.
 
 Page: https://fannonpropertyservices.com/service-area/  
-Last changed: 2026-10-08
+Last changed: 2026-10-10
 
 ---
 
 # Anne Arundel County and Kent Island.
 
 Lawns, washing, gutters, drainage and Christmas lights, for homes and commercial properties.
-
-[Call (443) 223-8643](tel:+14432238643)
 
 - Insured
 - Free estimates

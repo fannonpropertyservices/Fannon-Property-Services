@@ -3,15 +3,13 @@
 > Gutter cleaning for townhouses and houses in Crofton, Gambrills and Davidsonville, where attached homes match detached ones. Free estimates.
 
 Page: https://fannonpropertyservices.com/service-area/crofton/gutter-cleaning/  
-Last changed: 2026-10-09
+Last changed: 2026-10-10
 
 ---
 
 # Townhouse and house gutters, cleaned in Crofton.
 
 Townhouse rows and single homes, in Gambrills and Davidsonville as well.
-
-[Call (443) 223-8643](tel:+14432238643)
 
 - Insured
 - Locally owned

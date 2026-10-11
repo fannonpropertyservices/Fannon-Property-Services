@@ -3,15 +3,13 @@
 > Clean gutters about twice a year, in spring and early fall, and any time they clog. We clean gutters for homes around Annapolis. Free estimates.
 
 Page: https://fannonpropertyservices.com/guides/how-often-to-clean-gutters/  
-Last changed: 2026-10-08
+Last changed: 2026-10-10
 
 ---
 
 # How often should gutters be cleaned?
 
 About twice a year, and any time they clog.
-
-[Call (443) 223-8643](tel:+14432238643)
 
 ![A gutter packed with wet leaves at the edge of a metal roof](https://fannonpropertyservices.com/assets/own/portfolio/img_0368.webp)
 

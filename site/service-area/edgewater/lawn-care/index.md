@@ -3,15 +3,13 @@
 > Lawn care and landscaping in Edgewater, MD, by the South River: mowing, aeration and overseeding, and leaf removal. Free estimates by text or call.
 
 Page: https://fannonpropertyservices.com/service-area/edgewater/lawn-care/  
-Last changed: 2026-10-09
+Last changed: 2026-10-10
 
 ---
 
 # Lawn care in Edgewater, close to the water.
 
 Mowing, aeration and seeding, and leaf removal in the fall, near the shore and inland.
-
-[Call (443) 223-8643](tel:+14432238643)
 
 - Insured
 - Locally owned

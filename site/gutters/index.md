@@ -3,15 +3,13 @@
 > Gutter cleaning and gutter guard installation for homes in Anne Arundel County and Kent Island. One call to Fannon Property Services for a free estimate.
 
 Page: https://fannonpropertyservices.com/gutters/  
-Last changed: 2026-10-08
+Last changed: 2026-10-10
 
 ---
 
 # Gutters cleaned. Guards installed.
 
 We clear out the leaves and debris, and we install gutter guards. Free estimates across Anne Arundel County and Kent Island.
-
-[Call (443) 223-8643](tel:+14432238643)
 
 - Insured
 - Locally owned

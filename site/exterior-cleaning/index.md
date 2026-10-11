@@ -3,15 +3,13 @@
 > Pressure washing and power washing for siding, driveways, sidewalks, patios and pavers in Anne Arundel County, plus paver sealing and deck staining.
 
 Page: https://fannonpropertyservices.com/exterior-cleaning/  
-Last changed: 2026-10-08
+Last changed: 2026-10-10
 
 ---
 
 # Pressure washing for the whole property.
 
 For siding, driveways, sidewalks, patios and pavers, in Anne Arundel County and on Kent Island.
-
-[Call (443) 223-8643](tel:+14432238643)
 
 - Insured
 - Locally owned

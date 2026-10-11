@@ -3,15 +3,13 @@
 > We are a locally owned, insured company based in Annapolis, Maryland. We look after the outside of homes and commercial properties across Anne Arundel County.
 
 Page: https://fannonpropertyservices.com/about/  
-Last changed: 2026-10-09
+Last changed: 2026-10-10
 
 ---
 
 # About Fannon Property Services.
 
 We look after the outside of homes and commercial properties: lawns, planting beds, washing, gutters and drainage.
-
-[Call (443) 223-8643](tel:+14432238643)
 
 - Homes and businesses
 - Free estimates

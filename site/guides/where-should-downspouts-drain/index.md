@@ -3,15 +3,13 @@
 > Downspouts should let water out at least 5 feet from the foundation, on ground that slopes away. Anne Arundel County rules and a tax credit, explained.
 
 Page: https://fannonpropertyservices.com/guides/where-should-downspouts-drain/  
-Last changed: 2026-10-09
+Last changed: 2026-10-10
 
 ---
 
 # Where should downspouts drain?
 
 At least 5 feet from the house, onto ground that falls away from it.
-
-[Call (443) 223-8643](tel:+14432238643)
 
 - Insured
 - Locally owned

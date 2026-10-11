@@ -3,15 +3,13 @@
 > Mowing, cleanups, gutter cleaning and guards, yard drainage and house washing in Crownsville, Herald Harbor and Arden on the Severn. Free estimates.
 
 Page: https://fannonpropertyservices.com/service-area/crownsville/  
-Last changed: 2026-10-09
+Last changed: 2026-10-10
 
 ---
 
 # Lawn, gutters and drainage in Crownsville.
 
 One company for the whole property: lawn, beds, gutters, drainage and washing.
-
-[Call (443) 223-8643](tel:+14432238643)
 
 - Insured
 - Locally owned

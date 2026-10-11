@@ -3,15 +3,13 @@
 > Plastic clips hook over the gutter lip or grip the shingle edge. Two roofing makers say never staple, nail or screw lights through a roof.
 
 Page: https://fannonpropertyservices.com/guides/christmas-light-clips-shingles-gutters/  
-Last changed: 2026-10-09
+Last changed: 2026-10-10
 
 ---
 
 # Christmas light clips for shingles and gutters.
 
 What holds lights on a roof edge, and what puts a hole in it.
-
-[Call (443) 223-8643](tel:+14432238643)
 
 - Insured
 - Locally owned

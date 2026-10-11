@@ -3,7 +3,7 @@
 > Lawn and landscape care, pressure washing, gutters, drainage and Christmas lights for homes in Annapolis and Anne Arundel County. One company, free estimates.
 
 Page: https://fannonpropertyservices.com/  
-Last changed: 2026-10-09
+Last changed: 2026-10-10
 
 ---
 
@@ -13,14 +13,12 @@ Anne Arundel County & Kent Island
 
 Lawn care, washing, gutters, drainage and Christmas lights in Annapolis and across Anne Arundel County.
 
-[Call (443) 223-8643](tel:+14432238643)
-
 - Insured
 - Owner with 5 years of experience
 
 ![Two Fannon crew members on the roof of a white two-story home, with ladders set up at the front](https://fannonpropertyservices.com/assets/own/home-hero-wide.webp)
 
-![The same white two-story home at night, with warm white lights along its rooflines](https://fannonpropertyservices.com/assets/gen/home-hero-lit-wide.webp)
+*The same white two-story home at night, with warm white lights along its rooflines*
 
 *Our crew at work on a customer's home.*
 

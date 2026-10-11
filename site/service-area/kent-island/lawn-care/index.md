@@ -3,15 +3,13 @@
 > Lawn care and landscaping on Kent Island, MD, in Stevensville and Chester: mowing, aeration, overseeding and leaf removal, over the Bay Bridge.
 
 Page: https://fannonpropertyservices.com/service-area/kent-island/lawn-care/  
-Last changed: 2026-10-09
+Last changed: 2026-10-10
 
 ---
 
 # Kent Island lawns, mowed and seeded.
 
 In Stevensville and Chester, we mow, aerate and overseed, and handle leaf removal once the leaves fall.
-
-[Call (443) 223-8643](tel:+14432238643)
 
 - Insured
 - Locally owned

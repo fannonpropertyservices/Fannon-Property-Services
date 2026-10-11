@@ -3,15 +3,13 @@
 > One company for Arnold, MD homes: lawn and bed care, house washing, gutters and Christmas lights. Based in Annapolis, about 5 miles away. Free estimates.
 
 Page: https://fannonpropertyservices.com/service-area/arnold/  
-Last changed: 2026-10-09
+Last changed: 2026-10-10
 
 ---
 
 # One company for your Arnold property.
 
 We do the lawn, the washing, the gutters and the Christmas lights.
-
-[Call (443) 223-8643](tel:+14432238643)
 
 - Insured
 - Locally owned

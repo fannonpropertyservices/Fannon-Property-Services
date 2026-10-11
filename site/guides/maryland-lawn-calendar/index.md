@@ -3,15 +3,13 @@
 > Mowing a tall fescue lawn in Maryland starts in spring, March to April, and can run to late November. Cut at 3 to 4 inches. We mow lawns around Annapolis.
 
 Page: https://fannonpropertyservices.com/guides/maryland-lawn-calendar/  
-Last changed: 2026-10-09
+Last changed: 2026-10-10
 
 ---
 
 # Maryland lawn care calendar, month by month.
 
 Mowing starts in spring, March to April, and can run to late November.
-
-[Call (443) 223-8643](tel:+14432238643)
 
 ![A landscaper seen from behind, pushing a mower across a striped front lawn](https://fannonpropertyservices.com/assets/gen/services/mowing-desk.webp)
 

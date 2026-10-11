@@ -3,15 +3,13 @@
 > Gutter cleaning in Arnold, MD, where a tuliptree in Chase Creek Woods measured 157.6 feet and most homes date from the 1970s and 1980s. Free estimates.
 
 Page: https://fannonpropertyservices.com/service-area/arnold/gutter-cleaning/  
-Last changed: 2026-10-09
+Last changed: 2026-10-10
 
 ---
 
 # Gutter cleaning under Arnold's tall woods.
 
 Leaves and debris lifted out, on houses and townhouses alike, so the next storm drains.
-
-[Call (443) 223-8643](tel:+14432238643)
 
 - Insured
 - Locally owned

@@ -3,15 +3,13 @@
 > Aerate and overseed a tall fescue lawn in Maryland from mid-August to mid-October, ahead of November frosts. We do this work around Annapolis. Free estimates.
 
 Page: https://fannonpropertyservices.com/guides/when-to-aerate-and-overseed/  
-Last changed: 2026-10-08
+Last changed: 2026-10-10
 
 ---
 
 # When to aerate and overseed in Maryland.
 
 Late summer into early fall, so new grass is growing before the November frosts.
-
-[Call (443) 223-8643](tel:+14432238643)
 
 ![A thick, evenly mown lawn with a crisp edge in front of a brick house](https://fannonpropertyservices.com/assets/gen/services/lawn-desk.webp)
 

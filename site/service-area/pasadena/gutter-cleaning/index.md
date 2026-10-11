@@ -3,15 +3,13 @@
 > Gutter cleaning around Lake Shore in Pasadena, in Riviera Beach and on Gibson Island, where pine and oak grow on the sandy ground. Free estimates.
 
 Page: https://fannonpropertyservices.com/service-area/pasadena/gutter-cleaning/  
-Last changed: 2026-10-09
+Last changed: 2026-10-10
 
 ---
 
 # Gutters cleaned around Lake Shore, Pasadena.
 
 Needles and leaves cleared out, on houses, townhouse rows and island homes.
-
-[Call (443) 223-8643](tel:+14432238643)
 
 - Insured
 - Locally owned

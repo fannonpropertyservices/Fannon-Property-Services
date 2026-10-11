@@ -3,15 +3,13 @@
 > Hanukkah lights, Diwali lights and holiday light installation for Ramadan and Eid, Kwanzaa and New Year near Annapolis, MD. From $650. Free estimates.
 
 Page: https://fannonpropertyservices.com/holiday-lighting/  
-Last changed: 2026-10-08
+Last changed: 2026-10-10
 
 ---
 
 # Holiday lighting, whatever you celebrate.
 
 Lights for Hanukkah, Diwali, Ramadan and Eid, Kwanzaa and New Year, in Annapolis and across Anne Arundel County.
-
-[Call (443) 223-8643](tel:+14432238643)
 
 - Insured
 - Locally owned

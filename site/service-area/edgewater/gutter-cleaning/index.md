@@ -3,15 +3,13 @@
 > Gutter cleaning in Edgewater and Londontowne, MD. About 18 percent of Edgewater's homes were built before 1950, twice the county share. Free estimates.
 
 Page: https://fannonpropertyservices.com/service-area/edgewater/gutter-cleaning/  
-Last changed: 2026-10-09
+Last changed: 2026-10-10
 
 ---
 
 # Gutter cleaning for Edgewater homes, old and new.
 
 In Edgewater and Londontowne, we clear out the leaves and debris that stop a gutter draining.
-
-[Call (443) 223-8643](tel:+14432238643)
 
 - Insured
 - Locally owned

@@ -3,15 +3,13 @@
 > Gutter cleaning in Crownsville, MD, Herald Harbor and Arden on the Severn, near Bacon Ridge: over 1,100 acres of forest and wetland. Free estimates.
 
 Page: https://fannonpropertyservices.com/service-area/crownsville/gutter-cleaning/  
-Last changed: 2026-10-09
+Last changed: 2026-10-10
 
 ---
 
 # Crownsville gutters, from Herald Harbor to Bacon Ridge.
 
 We clear the gutters on Crownsville houses, out by the woods and down by the Severn.
-
-[Call (443) 223-8643](tel:+14432238643)
 
 - Insured
 - Locally owned

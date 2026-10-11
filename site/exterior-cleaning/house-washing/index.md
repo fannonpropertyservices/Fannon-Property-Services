@@ -3,15 +3,13 @@
 > We wash house siding in Annapolis and across Anne Arundel County, one wall or the whole house. Washing siding every year is a good idea. Free estimates.
 
 Page: https://fannonpropertyservices.com/exterior-cleaning/house-washing/  
-Last changed: 2026-10-08
+Last changed: 2026-10-10
 
 ---
 
 # House washing for siding.
 
 One wall or the whole house, around Annapolis and out to Kent Island.
-
-[Call (443) 223-8643](tel:+14432238643)
 
 - Insured
 - Locally owned

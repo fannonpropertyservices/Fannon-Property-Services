@@ -3,15 +3,13 @@
 > What to do in a Maryland yard each fall: seed by mid-October, clean the gutters, plant shrubs, clear leaves and plan the last mow.
 
 Page: https://fannonpropertyservices.com/guides/fall-yard-checklist/  
-Last changed: 2026-10-09
+Last changed: 2026-10-10
 
 ---
 
 # Fall yard checklist for Maryland homes.
 
 Seed first. Then gutters, planting, leaves and one last mow before winter.
-
-[Call (443) 223-8643](tel:+14432238643)
 
 ![A worker with a backpack blower moving fallen leaves toward a pile on a tarp in a backyard](https://fannonpropertyservices.com/assets/gen/services/fall-cleanup-desk.webp)
 

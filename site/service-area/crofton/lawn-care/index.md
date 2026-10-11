@@ -3,15 +3,13 @@
 > Landscaping in Crofton, Gambrills and Davidsonville, MD, starting with the lawn: mowing, aeration and overseeding, and leaf removal. Free estimates.
 
 Page: https://fannonpropertyservices.com/service-area/crofton/lawn-care/  
-Last changed: 2026-10-09
+Last changed: 2026-10-10
 
 ---
 
 # Lawn care in Crofton, Gambrills and Davidsonville.
 
 We mow lawns, aerate and overseed them, and do leaf removal in the fall. Tell us the lot and how often you want it cut.
-
-[Call (443) 223-8643](tel:+14432238643)
 
 - Insured
 - Locally owned

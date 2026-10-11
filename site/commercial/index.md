@@ -3,15 +3,13 @@
 > Landscape maintenance, mulch and seasonal cleanups, snow and ice management, exterior cleaning and holiday lighting for commercial properties around Annapolis.
 
 Page: https://fannonpropertyservices.com/commercial/  
-Last changed: 2026-10-08
+Last changed: 2026-10-10
 
 ---
 
 # Commercial properties, kept up.
 
 Commercial landscaping, mulch and seasonal cleanups, snow and ice management, exterior cleaning, holiday lighting and irrigation for properties around Annapolis.
-
-[Call (443) 223-8643](tel:+14432238643)
 
 - Insured
 - Locally owned

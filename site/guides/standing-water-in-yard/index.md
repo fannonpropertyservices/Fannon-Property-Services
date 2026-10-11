@@ -3,15 +3,13 @@
 > Give standing water 24 to 36 hours to soak in, unless it is causing new damage. Then check downspouts, low spots and packed soil. Free drainage estimates.
 
 Page: https://fannonpropertyservices.com/guides/standing-water-in-yard/  
-Last changed: 2026-10-08
+Last changed: 2026-10-10
 
 ---
 
 # Why water stands in your yard after rain.
 
 Give it 24 to 36 hours to soak in. Still there? Check the downspouts, the low spots and packed soil.
-
-[Call (443) 223-8643](tel:+14432238643)
 
 ![A wide, shallow puddle on a lawn beside a downspout after rain](https://fannonpropertyservices.com/assets/gen/services/standing-water-desk.webp)
 

@@ -3,15 +3,13 @@
 > Gutter cleaning in Riva, MD, where nearly half the land is woods and Sylvan Shores began in 1929 as a summer home development. Free estimates.
 
 Page: https://fannonpropertyservices.com/service-area/riva/gutter-cleaning/  
-Last changed: 2026-10-09
+Last changed: 2026-10-10
 
 ---
 
 # Gutter cleaning in Riva, where the woods come close.
 
 Sylvan Shores, Annapolis Landing, Waterford and the rest of Riva: gutters cleared so the rain runs off.
-
-[Call (443) 223-8643](tel:+14432238643)
 
 - Insured
 - Locally owned

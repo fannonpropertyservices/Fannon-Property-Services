@@ -3,15 +3,13 @@
 > Lawn mowing and landscaping in Pasadena, MD, from Lake Shore to Riviera Beach and Gibson Island: mowing, aeration, overseeding and leaf removal.
 
 Page: https://fannonpropertyservices.com/service-area/pasadena/lawn-care/  
-Last changed: 2026-10-09
+Last changed: 2026-10-10
 
 ---
 
 # Pasadena lawns, from dry ground to low spots that flood.
 
 Sandy ground around Lake Shore, Russett soils in Riviera Beach and the lawns of Gibson Island, each with mowing, aeration, overseeding and fall leaf removal.
-
-[Call (443) 223-8643](tel:+14432238643)
 
 - Insured
 - Locally owned

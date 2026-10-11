@@ -3,15 +3,13 @@
 > Lawn care, pressure washing, gutter cleaning, river rock drainage and Christmas lights in Riva, MD, on the South River. Insured, with free estimates.
 
 Page: https://fannonpropertyservices.com/service-area/riva/  
-Last changed: 2026-10-09
+Last changed: 2026-10-10
 
 ---
 
 # Lawn care, washing and drainage in Riva.
 
 One call covers the lawn, the house and the water that collects in the yard.
-
-[Call (443) 223-8643](tel:+14432238643)
 
 - Insured
 - Locally owned

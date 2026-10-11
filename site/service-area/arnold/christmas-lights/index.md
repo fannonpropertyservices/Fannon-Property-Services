@@ -3,15 +3,13 @@
 > Christmas light installation for homes in Arnold, MD, the town of the Deep Creek lighted boat parade. From $650 for a single-story front roofline.
 
 Page: https://fannonpropertyservices.com/service-area/arnold/christmas-lights/  
-Last changed: 2026-10-09
+Last changed: 2026-10-10
 
 ---
 
 # Christmas light installation for Arnold homes.
 
 In 2024, 35 lit boats looped around Deep Creek. We can light the house you watch them from.
-
-[Call (443) 223-8643](tel:+14432238643)
 
 - From $650
 - Free estimates

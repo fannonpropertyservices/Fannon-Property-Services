@@ -3,15 +3,13 @@
 > Lawn care on the Annapolis Neck, MD, in Hillsmere Shores, Bay Ridge and Highland Beach: mowing, aeration, overseeding and leaf removal. Free estimates.
 
 Page: https://fannonpropertyservices.com/service-area/annapolis-neck/lawn-care/  
-Last changed: 2026-10-09
+Last changed: 2026-10-10
 
 ---
 
 # Annapolis Neck lawns, from Hillsmere to Bay Ridge.
 
 Mown, aerated, overseeded and cleared of fall leaves, Highland Beach included.
-
-[Call (443) 223-8643](tel:+14432238643)
 
 - Insured
 - Locally owned

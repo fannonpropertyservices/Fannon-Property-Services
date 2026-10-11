@@ -3,15 +3,13 @@
 > Christmas light hanging for Kent Island homes in Stevensville and Chester, from $650 for a single-story front roofline. Fixes all season are included.
 
 Page: https://fannonpropertyservices.com/service-area/kent-island/christmas-lights/  
-Last changed: 2026-10-09
+Last changed: 2026-10-10
 
 ---
 
 # Christmas light hanging on Kent Island.
 
 Lights on the Bay is at Sandy Point, about four miles over the water. We hang lights on houses in Stevensville and Chester.
-
-[Call (443) 223-8643](tel:+14432238643)
 
 - From $650
 - Insured

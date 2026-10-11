@@ -3,15 +3,13 @@
 > Lawn care and lawn service in Severna Park, MD, where most of the mapped soil lets water pass through freely: mowing, aeration, overseeding and leaf removal.
 
 Page: https://fannonpropertyservices.com/service-area/severna-park/lawn-care/  
-Last changed: 2026-10-09
+Last changed: 2026-10-10
 
 ---
 
 # Lawn service for Severna Park's fast-draining ground.
 
 Mowing, aeration and overseeding, and leaf removal in the fall, all over town.
-
-[Call (443) 223-8643](tel:+14432238643)
 
 - Insured
 - Locally owned

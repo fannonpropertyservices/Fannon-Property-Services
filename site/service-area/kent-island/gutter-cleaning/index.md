@@ -3,15 +3,13 @@
 > Gutter cleaning for homes in Stevensville and Chester, where NOAA records a 68 mph storm gust in 2013. We cross the Bay Bridge. Free estimates.
 
 Page: https://fannonpropertyservices.com/service-area/kent-island/gutter-cleaning/  
-Last changed: 2026-10-09
+Last changed: 2026-10-10
 
 ---
 
 # Gutter cleaning on Kent Island, over the bridge.
 
 For homes in Stevensville and Chester, from a crew based in Annapolis.
-
-[Call (443) 223-8643](tel:+14432238643)
 
 - Insured
 - Locally owned

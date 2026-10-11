@@ -3,15 +3,13 @@
 > Lawn mowing, aeration and overseeding, mulch and planting beds, sod and seasonal cleanups in Annapolis and Anne Arundel County. Priced by quote, free estimate.
 
 Page: https://fannonpropertyservices.com/landscape-maintenance/  
-Last changed: 2026-10-09
+Last changed: 2026-10-10
 
 ---
 
 # Lawn care and landscaping in Anne Arundel County.
 
 Mowing, aeration and overseeding, mulch and planting beds, shrubs, sod and seasonal cleanups for homes across Anne Arundel County and Kent Island.
-
-[Call (443) 223-8643](tel:+14432238643)
 
 - Insured
 - Locally owned

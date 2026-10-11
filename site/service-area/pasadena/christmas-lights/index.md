@@ -3,15 +3,13 @@
 > Christmas light installers for homes in Pasadena and Riviera Beach, MD: a design, a timer, repairs all season, takedown and storage, from $650.
 
 Page: https://fannonpropertyservices.com/service-area/pasadena/christmas-lights/  
-Last changed: 2026-10-09
+Last changed: 2026-10-10
 
 ---
 
 # Christmas light installers in Pasadena and Riviera Beach.
 
 In 2024 whole streets here were lit, Mount Drive and Westwood Manor Way among them. Your house can be next.
-
-[Call (443) 223-8643](tel:+14432238643)
 
 - From $650
 - Insured

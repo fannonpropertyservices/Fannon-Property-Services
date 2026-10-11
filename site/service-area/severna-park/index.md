@@ -3,15 +3,13 @@
 > Lawn and bed care, house washing, gutter cleaning and Christmas lights in every part of Severna Park, about 8 miles north of Annapolis. Free estimates.
 
 Page: https://fannonpropertyservices.com/service-area/severna-park/  
-Last changed: 2026-10-09
+Last changed: 2026-10-10
 
 ---
 
 # Lawn, washing and lights in Severna Park.
 
 We look after the outside of homes here: lawn service and landscaping, pressure washing, the gutters and the roofline.
-
-[Call (443) 223-8643](tel:+14432238643)
 
 - Insured
 - Locally owned

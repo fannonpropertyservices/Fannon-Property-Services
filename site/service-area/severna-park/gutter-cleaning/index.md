@@ -3,15 +3,13 @@
 > Gutter cleaning for Severna Park homes, where more than half the houses went up before 1980 and tree canopy covers about half the land. Free estimates.
 
 Page: https://fannonpropertyservices.com/service-area/severna-park/gutter-cleaning/  
-Last changed: 2026-10-09
+Last changed: 2026-10-10
 
 ---
 
 # Gutter cleaning in Severna Park.
 
 We clear the leaves and debris out of your gutters, so the next rain has a clear path down.
-
-[Call (443) 223-8643](tel:+14432238643)
 
 - Insured
 - Locally owned

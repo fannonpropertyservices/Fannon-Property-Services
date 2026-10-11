@@ -3,15 +3,13 @@
 > Gutter cleaning on the Annapolis Neck, from Hillsmere Shores to Bay Ridge, whose mature trees the county calls a defining feature. Free estimates.
 
 Page: https://fannonpropertyservices.com/service-area/annapolis-neck/gutter-cleaning/  
-Last changed: 2026-10-09
+Last changed: 2026-10-10
 
 ---
 
 # Gutter cleaning on the Annapolis Neck.
 
 South of the city line, from Hillsmere Shores out to Bay Ridge, we lift out what the trees drop.
-
-[Call (443) 223-8643](tel:+14432238643)
 
 - Insured
 - Locally owned

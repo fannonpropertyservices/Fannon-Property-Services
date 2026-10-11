@@ -3,15 +3,13 @@
 > Anne Arundel County takes leaves in paper yard waste bags or an X-marked can, up to 40 pounds each, out before 6 a.m. Annapolis and Kent Island rules too.
 
 Page: https://fannonpropertyservices.com/guides/yard-waste-and-leaf-pickup-rules/  
-Last changed: 2026-10-09
+Last changed: 2026-10-10
 
 ---
 
 # Leaf and yard waste pickup in Anne Arundel County.
 
 Paper bags or a marked can, up to 40 pounds each, at the curb all year. Never plastic.
-
-[Call (443) 223-8643](tel:+14432238643)
 
 - Insured
 - Locally owned

@@ -3,15 +3,13 @@
 > Clogged gutters spill roof water at the wall. It can soak into the basement and cause mold and rot. In winter a full gutter can freeze and add to an ice dam.
 
 Page: https://fannonpropertyservices.com/guides/what-happens-if-gutters-are-clogged/  
-Last changed: 2026-10-09
+Last changed: 2026-10-10
 
 ---
 
 # What happens when gutters clog?
 
 The roof's water lands where it should not: at the wall, in the basement, in the ice at the roof edge.
-
-[Call (443) 223-8643](tel:+14432238643)
 
 - Insured
 - Locally owned

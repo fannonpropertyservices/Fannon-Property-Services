@@ -3,15 +3,13 @@
 > Lawn care for Crownsville, Herald Harbor and Arden on the Severn, MD, from acre lots to river lots: mowing, aeration, overseeding and leaf removal.
 
 Page: https://fannonpropertyservices.com/service-area/crownsville/lawn-care/  
-Last changed: 2026-10-09
+Last changed: 2026-10-10
 
 ---
 
 # Crownsville lawns, acre lots and river lots.
 
 Inland and along the Severn in Herald Harbor and Arden on the Severn: lawns mowed, aerated and overseeded, and cleared of leaves in the fall.
-
-[Call (443) 223-8643](tel:+14432238643)
 
 - Insured
 - Locally owned

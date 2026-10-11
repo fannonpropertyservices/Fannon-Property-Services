@@ -3,15 +3,13 @@
 > Lawn mowing, pressure washing and gutter cleaning in Pasadena around Lake Shore, in Riviera Beach and on Gibson Island. Insured, with free estimates.
 
 Page: https://fannonpropertyservices.com/service-area/pasadena/  
-Last changed: 2026-10-09
+Last changed: 2026-10-10
 
 ---
 
 # Lawn, washing and gutters around Lake Shore, Pasadena.
 
 We mow lawns, wash houses and driveways and clean gutters here, in Riviera Beach and on Gibson Island.
-
-[Call (443) 223-8643](tel:+14432238643)
 
 - Insured
 - Locally owned

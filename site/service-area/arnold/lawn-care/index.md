@@ -3,15 +3,13 @@
 > Lawn care in Arnold, MD, for yards on slopes and under tall trees: mowing, aeration and overseeding, and leaf removal. Free estimates.
 
 Page: https://fannonpropertyservices.com/service-area/arnold/lawn-care/  
-Last changed: 2026-10-09
+Last changed: 2026-10-10
 
 ---
 
 # Arnold lawns, on slopes and under trees.
 
 Mowing on hillsides, seed for thin spots, and leaf removal once the woods drop their leaves.
-
-[Call (443) 223-8643](tel:+14432238643)
 
 - Insured
 - Locally owned

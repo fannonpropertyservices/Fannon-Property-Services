@@ -3,15 +3,13 @@
 > Mow leaves into the lawn, twice if needed, and rake off only what still hides the grass. In Maryland, clear thick leaf cover late October to mid-November.
 
 Page: https://fannonpropertyservices.com/guides/mulch-leaves-or-rake/  
-Last changed: 2026-10-09
+Last changed: 2026-10-10
 
 ---
 
 # Mulch leaves or rake them?
 
 Mow over them, even a layer a few inches deep. If grass shows after you mow, leave the bits. Rake off what still hides it.
-
-[Call (443) 223-8643](tel:+14432238643)
 
 - Insured
 - Locally owned

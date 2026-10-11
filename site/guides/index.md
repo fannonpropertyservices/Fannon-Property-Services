@@ -3,15 +3,13 @@
 > When to aerate and seed a Maryland lawn, how deep to lay mulch, how often to clean gutters and what to do about standing water. Free estimates.
 
 Page: https://fannonpropertyservices.com/guides/  
-Last changed: 2026-10-08
+Last changed: 2026-10-10
 
 ---
 
 # Yard care guides for Maryland homes.
 
 When to seed, how deep to mulch, how often to clean gutters, and what to do when water sits.
-
-[Call (443) 223-8643](tel:+14432238643)
 
 ![Hostas and small plants in fresh dark mulch along a wooden fence](https://fannonpropertyservices.com/assets/own/portfolio/4dd9de34.webp)
 

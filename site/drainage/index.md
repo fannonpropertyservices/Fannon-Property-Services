@@ -3,15 +3,13 @@
 > Standing water in the yard, by the house or beside the driveway? We offer river rock drainage and French drains in Anne Arundel County. Free estimate.
 
 Page: https://fannonpropertyservices.com/drainage/  
-Last changed: 2026-10-08
+Last changed: 2026-10-10
 
 ---
 
 # Yard drainage: river rock and French drains.
 
 Water sitting by the driveway, against the house or in the lawn? We will quote a river rock channel or a French drain.
-
-[Call (443) 223-8643](tel:+14432238643)
 
 - Insured
 - Locally owned

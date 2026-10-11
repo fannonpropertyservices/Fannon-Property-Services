@@ -3,15 +3,13 @@
 > Lawn care, mulch and sod, house washing, paver cleaning, gutters, yard drainage and Christmas lights for homes and businesses around Annapolis. Free estimates.
 
 Page: https://fannonpropertyservices.com/services/  
-Last changed: 2026-10-08
+Last changed: 2026-10-10
 
 ---
 
 # Lawn, washing, gutter and drainage services.
 
 Outdoor work for homes and commercial properties in Anne Arundel County and on Kent Island.
-
-[Call (443) 223-8643](tel:+14432238643)
 
 - Homes and businesses
 - Small jobs welcome
