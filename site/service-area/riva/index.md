@@ -3,7 +3,7 @@
 > Lawn care, pressure washing, gutter cleaning, river rock drainage and Christmas lights in Riva, MD, on the South River. Insured, with free estimates.
 
 Page: https://fannonpropertyservices.com/service-area/riva/  
-Last changed: 2026-10-11
+Last changed: 2026-10-12
 
 ---
 
@@ -53,6 +53,7 @@ We mow lawns and mulch beds, wash siding, driveways, patios and pavers, clean gu
 - [Gutter cleaning](https://fannonpropertyservices.com/service-area/riva/gutter-cleaning/)
 - [Lawn care](https://fannonpropertyservices.com/service-area/riva/lawn-care/)
 - [Christmas lights](https://fannonpropertyservices.com/service-area/riva/christmas-lights/)
+- [Yard drainage](https://fannonpropertyservices.com/service-area/riva/drainage/)
 
 ## Questions
 

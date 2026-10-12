@@ -3,7 +3,7 @@
 > Standing water in the yard, by the house or beside the driveway? We offer river rock drainage and French drains in Anne Arundel County. Free estimate.
 
 Page: https://fannonpropertyservices.com/drainage/  
-Last changed: 2026-10-11
+Last changed: 2026-10-12
 
 ---
 
@@ -42,7 +42,11 @@ Call or text us at (443) 223-8643. We offer river rock drainage and French drain
 
 - [Crofton](https://fannonpropertyservices.com/service-area/crofton/drainage/)
 - [Kent Island](https://fannonpropertyservices.com/service-area/kent-island/drainage/)
+- [Crownsville](https://fannonpropertyservices.com/service-area/crownsville/drainage/)
+- [Riva](https://fannonpropertyservices.com/service-area/riva/drainage/)
 - [Annapolis Neck](https://fannonpropertyservices.com/service-area/annapolis-neck/drainage/)
+- [Edgewater](https://fannonpropertyservices.com/service-area/edgewater/drainage/)
+- [Pasadena](https://fannonpropertyservices.com/service-area/pasadena/drainage/)
 
 ## Towns we cover
 

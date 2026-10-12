@@ -3,7 +3,7 @@
 > Lawn care, landscaping, mulch, planting beds and gutter cleaning in Edgewater and Londontowne, MD, on the South River. We are insured and estimates are free.
 
 Page: https://fannonpropertyservices.com/service-area/edgewater/  
-Last changed: 2026-10-10
+Last changed: 2026-10-12
 
 ---
 
@@ -52,6 +52,7 @@ Yes, as far south as Edgewater and Londontowne, across the South River from Anna
 - [Gutter cleaning](https://fannonpropertyservices.com/service-area/edgewater/gutter-cleaning/)
 - [Lawn care](https://fannonpropertyservices.com/service-area/edgewater/lawn-care/)
 - [Christmas lights](https://fannonpropertyservices.com/service-area/edgewater/christmas-lights/)
+- [Yard drainage](https://fannonpropertyservices.com/service-area/edgewater/drainage/)
 
 ## Questions
 

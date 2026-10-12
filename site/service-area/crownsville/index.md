@@ -3,7 +3,7 @@
 > Mowing, cleanups, gutter cleaning and guards, yard drainage and house washing in Crownsville, Herald Harbor and Arden on the Severn. Free estimates.
 
 Page: https://fannonpropertyservices.com/service-area/crownsville/  
-Last changed: 2026-10-11
+Last changed: 2026-10-12
 
 ---
 
@@ -53,6 +53,7 @@ All of it. We work across Crownsville, about 7 miles northwest of Annapolis, inc
 - [Gutter cleaning](https://fannonpropertyservices.com/service-area/crownsville/gutter-cleaning/)
 - [Lawn care](https://fannonpropertyservices.com/service-area/crownsville/lawn-care/)
 - [Christmas lights](https://fannonpropertyservices.com/service-area/crownsville/christmas-lights/)
+- [Yard drainage](https://fannonpropertyservices.com/service-area/crownsville/drainage/)
 
 ## Questions
 
