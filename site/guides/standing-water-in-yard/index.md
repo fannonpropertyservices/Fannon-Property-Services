@@ -3,7 +3,7 @@
 > Give standing water 24 to 36 hours to soak in, unless it is causing new damage. Then check downspouts, low spots and packed soil. Free drainage estimates.
 
 Page: https://fannonpropertyservices.com/guides/standing-water-in-yard/  
-Last changed: 2026-10-10
+Last changed: 2026-10-11
 
 ---
 
@@ -39,6 +39,7 @@ Sources: Anne Arundel County Bureau of Highways and University of Maryland Exten
 - ![A fabric-lined trench across a lawn, with drain pipe laid on gravel](https://fannonpropertyservices.com/assets/gen/services/french-drain-phone.webp) [French drains](https://fannonpropertyservices.com/drainage/) A gravel trench with a pipe inside.
 - ![A walk-behind core aerator on a lawn, with soil plugs on the grass behind it](https://fannonpropertyservices.com/assets/gen/services/aeration-phone.webp) [Aeration and overseeding](https://fannonpropertyservices.com/landscape-maintenance/aeration-overseeding/) For soil that is packed down.
 - ![Drawing of a downspout turning into an extension pipe that runs out along a lawn sloping away from the house, with a splash block at its end](https://fannonpropertyservices.com/assets/drawn/dsp-extension.svg) [Where downspouts should drain](https://fannonpropertyservices.com/guides/where-should-downspouts-drain/) Keep roof water 5 feet from the wall.
+- [Hard or compacted soil](https://fannonpropertyservices.com/guides/hard-or-compacted-soil/) The wire test, the bucket test and the fall fix.
 
 ## Questions
 
@@ -48,7 +49,7 @@ Start with where the water comes from. Manage the flow so downspout outlets and 
 
 ### Does aeration help with drainage?
 
-It can, when packed soil is the cause. Aerating helps relieve compaction by opening channels for air and water to move through the soil. Aeration alone cannot fix soaked soil.
+It can, when packed soil is the cause, because aerating opens channels for air and water. Aeration alone cannot fix soaked soil. Our guide Hard or compacted soil has the two tests that tell them apart.
 
 ### Will standing water kill grass?
 

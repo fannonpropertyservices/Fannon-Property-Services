@@ -3,7 +3,7 @@
 > Christmas lights from $650 for a single-story front roofline in Anne Arundel County. Design, install, fixes, takedown and storage included. Free estimate.
 
 Page: https://fannonpropertyservices.com/christmas-lights/  
-Last changed: 2026-10-10
+Last changed: 2026-10-11
 
 ---
 
@@ -92,12 +92,18 @@ One house, lit and unlit.
 - [All services](https://fannonpropertyservices.com/services/)
 - [Light clips for shingles and gutters](https://fannonpropertyservices.com/guides/christmas-light-clips-shingles-gutters/)
 - [Measure your roofline](https://fannonpropertyservices.com/christmas-lights/measure-your-roofline/)
+- [When to hang them](https://fannonpropertyservices.com/guides/when-to-put-up-and-take-down-christmas-lights/)
+- [Lease or buy your lights](https://fannonpropertyservices.com/guides/lease-or-buy-christmas-lights/)
+- [What Christmas lights cost](https://fannonpropertyservices.com/guides/christmas-light-installation-cost/)
 
 ## Christmas lights by town
 
 - [Crofton](https://fannonpropertyservices.com/service-area/crofton/christmas-lights/)
 - [Kent Island](https://fannonpropertyservices.com/service-area/kent-island/christmas-lights/)
 - [Severna Park](https://fannonpropertyservices.com/service-area/severna-park/christmas-lights/)
+- [Crownsville](https://fannonpropertyservices.com/service-area/crownsville/christmas-lights/)
+- [Riva](https://fannonpropertyservices.com/service-area/riva/christmas-lights/)
+- [Annapolis Neck](https://fannonpropertyservices.com/service-area/annapolis-neck/christmas-lights/)
 - [Arnold](https://fannonpropertyservices.com/service-area/arnold/christmas-lights/)
 - [Edgewater](https://fannonpropertyservices.com/service-area/edgewater/christmas-lights/)
 - [Pasadena](https://fannonpropertyservices.com/service-area/pasadena/christmas-lights/)

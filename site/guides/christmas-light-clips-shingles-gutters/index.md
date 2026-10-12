@@ -3,7 +3,7 @@
 > Plastic clips hook over the gutter lip or grip the shingle edge. Two roofing makers say never staple, nail or screw lights through a roof.
 
 Page: https://fannonpropertyservices.com/guides/christmas-light-clips-shingles-gutters/  
-Last changed: 2026-10-10
+Last changed: 2026-10-11
 
 ---
 
@@ -44,6 +44,7 @@ Sources: IKO and CertainTeed. Checked October 8, 2026.
 
 - ![A white colonial at night with warm white lights on every roofline](https://fannonpropertyservices.com/assets/own/lights-offer.webp) [Christmas lights](https://fannonpropertyservices.com/christmas-lights/) One payment: lights up, fixes all season, taken down after New Year's.
 - ![Drawing of a two-story house with strings of lights along its top roof edge and its porch roof](https://fannonpropertyservices.com/assets/drawn/sp-roofline-colonial.svg) [Measure your roofline](https://fannonpropertyservices.com/christmas-lights/measure-your-roofline/) Add up the edges you want lit, in feet.
+- [Hire an installer or hang your own](https://fannonpropertyservices.com/guides/christmas-light-installer-or-diy/) When a ladder job is worth handing over.
 
 ## Questions
 

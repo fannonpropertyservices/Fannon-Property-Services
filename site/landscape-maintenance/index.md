@@ -3,7 +3,7 @@
 > Lawn mowing, aeration and overseeding, mulch and planting beds, sod and seasonal cleanups in Annapolis and Anne Arundel County. Priced by quote, free estimate.
 
 Page: https://fannonpropertyservices.com/landscape-maintenance/  
-Last changed: 2026-10-10
+Last changed: 2026-10-11
 
 ---
 
@@ -27,7 +27,7 @@ Tell us how often you want yours cut.
 
 ![A landscaper seen from behind, pushing a mower across a striped front lawn](https://fannonpropertyservices.com/assets/gen/services/mowing-desk.webp)
 
-[Maryland lawn calendar](https://fannonpropertyservices.com/guides/maryland-lawn-calendar/) [Fall yard checklist](https://fannonpropertyservices.com/guides/fall-yard-checklist/)
+[Maryland lawn calendar](https://fannonpropertyservices.com/guides/maryland-lawn-calendar/) [Fall yard checklist](https://fannonpropertyservices.com/guides/fall-yard-checklist/) [Mowing height](https://fannonpropertyservices.com/guides/mowing-height-maryland/)
 
 ### How high should grass be cut in Maryland?
 
@@ -61,6 +61,9 @@ Our crew planting the front bed beside this stone house.
 - [Yard drainage](https://fannonpropertyservices.com/drainage/)
 - [Snow and ice for businesses](https://fannonpropertyservices.com/commercial/#snow)
 - [Leaf pickup rules](https://fannonpropertyservices.com/guides/yard-waste-and-leaf-pickup-rules/)
+- [Cutting back perennials](https://fannonpropertyservices.com/guides/cut-back-perennials-fall-or-spring/)
+- [Grass under trees](https://fannonpropertyservices.com/guides/grass-wont-grow-in-shade/)
+- [Sidewalk snow rules](https://fannonpropertyservices.com/guides/sidewalk-snow-rules-anne-arundel-county/)
 
 ## Fresh mulch in a shade bed.
 
@@ -95,7 +98,7 @@ Yes. Sod installation is part of our landscape work, and we quote it once we kno
 
 ### Do you offer snow removal?
 
-Yes. Snow removal is part of our landscape maintenance in winter, and for commercial properties we do snow and ice management.
+Yes. Snow removal is part of our landscape maintenance in winter, and for commercial properties we do snow and ice management. The county deadlines for clearing a walk are in our guide Sidewalk snow rules.
 
 ### Do you do irrigation?
 

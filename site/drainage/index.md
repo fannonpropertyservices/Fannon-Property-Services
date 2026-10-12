@@ -3,7 +3,7 @@
 > Standing water in the yard, by the house or beside the driveway? We offer river rock drainage and French drains in Anne Arundel County. Free estimate.
 
 Page: https://fannonpropertyservices.com/drainage/  
-Last changed: 2026-10-10
+Last changed: 2026-10-11
 
 ---
 
@@ -37,6 +37,12 @@ Call or text us at (443) 223-8643. We offer river rock drainage and French drain
 
 - ![Drawing of the ground cut through, with river rock heaped in a shallow channel between a lawn and a driveway, and arrows showing water running off both into the rock](https://fannonpropertyservices.com/assets/drawn/g09-river-rock.svg) **River rock: a dry creek bed or downspout drainage.** A channel lined with river rock, often called a dry creek bed, that carries runoff or a downspout's water away. We built one beside a driveway.
 - ![Drawing of a lawn cut through the soil, with a trench filled with gravel, a pipe at the bottom and arrows showing water moving into it](https://fannonpropertyservices.com/assets/drawn/g09-french-drain.svg) **A French drain.** A gravel-filled trench with a pipe that collects water and carries it away.
+
+## Yard drainage by town
+
+- [Crofton](https://fannonpropertyservices.com/service-area/crofton/drainage/)
+- [Kent Island](https://fannonpropertyservices.com/service-area/kent-island/drainage/)
+- [Annapolis Neck](https://fannonpropertyservices.com/service-area/annapolis-neck/drainage/)
 
 ## Towns we cover
 

@@ -3,7 +3,7 @@
 > We cross the Bay Bridge to Stevensville and Chester on Kent Island for lawn care, pressure washing, gutter cleaning and Christmas lights. Free estimates.
 
 Page: https://fannonpropertyservices.com/service-area/kent-island/  
-Last changed: 2026-10-10
+Last changed: 2026-10-11
 
 ---
 
@@ -54,6 +54,7 @@ We cover Stevensville, right off the Bay Bridge, and Chester, a little farther e
 - [Gutter cleaning](https://fannonpropertyservices.com/service-area/kent-island/gutter-cleaning/)
 - [Lawn care](https://fannonpropertyservices.com/service-area/kent-island/lawn-care/)
 - [Christmas lights](https://fannonpropertyservices.com/service-area/kent-island/christmas-lights/)
+- [Yard drainage](https://fannonpropertyservices.com/service-area/kent-island/drainage/)
 
 ## Questions
 

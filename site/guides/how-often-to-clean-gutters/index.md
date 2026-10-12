@@ -3,7 +3,7 @@
 > Clean gutters about twice a year, in spring and early fall, and any time they clog. We clean gutters for homes around Annapolis. Free estimates.
 
 Page: https://fannonpropertyservices.com/guides/how-often-to-clean-gutters/  
-Last changed: 2026-10-10
+Last changed: 2026-10-11
 
 ---
 
@@ -46,7 +46,8 @@ Sources: Delaware Department of Natural Resources and Environmental Control and 
 - ![A mesh gutter guard along the edge of a metal roof, wet with rain](https://fannonpropertyservices.com/assets/own/portfolio/img_7781.webp) [Gutter guards](https://fannonpropertyservices.com/gutters/) Fitted with a cleaning, or by themselves.
 - ![River rock laid in a channel between a lawn and a driveway](https://fannonpropertyservices.com/assets/own/drainage-hero-phone.webp) [Yard drainage](https://fannonpropertyservices.com/drainage/) River rock and French drains.
 - ![A worker with a backpack blower moving fallen leaves onto a tarp](https://fannonpropertyservices.com/assets/gen/services/fall-cleanup-phone.webp) [Fall yard checklist](https://fannonpropertyservices.com/guides/fall-yard-checklist/) What to do in the yard, and when.
-- [What clogged gutters cause](https://fannonpropertyservices.com/guides/what-happens-if-gutters-are-clogged/) Where roof water goes when a gutter fills.
+- [What clogged gutters cause](https://fannonpropertyservices.com/guides/what-happens-if-gutters-are-clogged/) Guide Where roof water goes when a gutter fills.
+- [Clean gutters yourself or hire someone](https://fannonpropertyservices.com/guides/clean-gutters-yourself-or-hire/) Your ladder or ours, side by side.
 
 ## Questions
 
@@ -64,7 +65,7 @@ Water backs up and overflows in fall, and melting snow can freeze into ice dams 
 
 ### Should I clean my own gutters or hire someone?
 
-Either can work. If you do it yourself, set a sturdy ladder on level ground. Never crawl onto the roof, and never work when storms or ice are possible. If you would rather stay on the ground, we clean gutters, and the estimate is free.
+Either can work. On a one-story home, set a sturdy ladder on level ground, and never crawl onto the roof or work when storms or ice are possible. Our guide Clean gutters yourself or hire someone sets the two side by side.
 
 ### Is gutter cleaning necessary?
 

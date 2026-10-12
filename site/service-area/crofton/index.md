@@ -3,7 +3,7 @@
 > Lawn care, pressure washing, gutter cleaning and Christmas lights from $650 in Crofton, Gambrills and Davidsonville. Insured, with free estimates.
 
 Page: https://fannonpropertyservices.com/service-area/crofton/  
-Last changed: 2026-10-10
+Last changed: 2026-10-11
 
 ---
 
@@ -53,6 +53,7 @@ We work in Crofton, in Gambrills just to the north and in Davidsonville, the nex
 - [Gutter cleaning](https://fannonpropertyservices.com/service-area/crofton/gutter-cleaning/)
 - [Lawn care](https://fannonpropertyservices.com/service-area/crofton/lawn-care/)
 - [Christmas lights](https://fannonpropertyservices.com/service-area/crofton/christmas-lights/)
+- [Yard drainage](https://fannonpropertyservices.com/service-area/crofton/drainage/)
 
 ## Questions
 

@@ -3,7 +3,7 @@
 > We aerate and overseed lawns in Annapolis and across Anne Arundel County. Maryland lawns are usually seeded from mid-August to mid-October. Free estimates.
 
 Page: https://fannonpropertyservices.com/landscape-maintenance/aeration-overseeding/  
-Last changed: 2026-10-10
+Last changed: 2026-10-11
 
 ---
 
@@ -48,6 +48,7 @@ Source: University of Maryland Extension
 - ![River rock laid in a channel between a lawn and a driveway](https://fannonpropertyservices.com/assets/own/drainage-hero-phone.webp) [Yard drainage](https://fannonpropertyservices.com/drainage/) For ground that stays wet.
 - ![New grass seedlings among older blades of grass, seen close up](https://fannonpropertyservices.com/assets/gen/services/overseeding-phone.webp) [When to aerate and overseed](https://fannonpropertyservices.com/guides/when-to-aerate-and-overseed/) The dates, the watering, and when to stay off new grass.
 - ![A thick, evenly mown front lawn in front of a brick house](https://fannonpropertyservices.com/assets/gen/services/lawn-phone.webp) [Maryland lawn calendar](https://fannonpropertyservices.com/guides/maryland-lawn-calendar/) Mowing, seeding and leaf dates.
+- [Thin or patchy lawn](https://fannonpropertyservices.com/guides/thin-or-patchy-lawn/) Why fescue cannot close a gap, and what opens one.
 
 ## Questions
 

@@ -3,7 +3,7 @@
 > Lawn care, house washing, gutter cleaning and Christmas lights on the Annapolis Neck, including Hillsmere Shores and Bay Ridge. Insured, free estimates.
 
 Page: https://fannonpropertyservices.com/service-area/annapolis-neck/  
-Last changed: 2026-10-10
+Last changed: 2026-10-11
 
 ---
 
@@ -52,6 +52,8 @@ Yes. We work across the Annapolis Neck, the peninsula south of the city between 
 
 - [Gutter cleaning](https://fannonpropertyservices.com/service-area/annapolis-neck/gutter-cleaning/)
 - [Lawn care](https://fannonpropertyservices.com/service-area/annapolis-neck/lawn-care/)
+- [Christmas lights](https://fannonpropertyservices.com/service-area/annapolis-neck/christmas-lights/)
+- [Yard drainage](https://fannonpropertyservices.com/service-area/annapolis-neck/drainage/)
 
 ## Questions
 

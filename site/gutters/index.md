@@ -3,7 +3,7 @@
 > Gutter cleaning and gutter guard installation for homes in Anne Arundel County and Kent Island. One call to Fannon Property Services for a free estimate.
 
 Page: https://fannonpropertyservices.com/gutters/  
-Last changed: 2026-10-10
+Last changed: 2026-10-11
 
 ---
 
@@ -52,8 +52,10 @@ We cleaned this gutter, then fitted a mesh guard over it. Rain runs off the roof
 - ![River rock laid in a channel between a lawn and a driveway](https://fannonpropertyservices.com/assets/own/drainage-hero-phone.webp) [Yard drainage](https://fannonpropertyservices.com/drainage/) For water that sits below the gutters.
 - ![Clean white siding on a two-story home, with a brick corner beside it](https://fannonpropertyservices.com/assets/own/exterior-hero-phone.webp) [House washing](https://fannonpropertyservices.com/exterior-cleaning/house-washing/) Ask for it in the same estimate.
 - ![A worker on a ladder lifting leaves out of a gutter in autumn](https://fannonpropertyservices.com/assets/gen/services/gutter-cleaning-phone.webp) [How often to clean gutters](https://fannonpropertyservices.com/guides/how-often-to-clean-gutters/) How often, which seasons, and what a clog can do.
+- [Clean gutters yourself or hire someone](https://fannonpropertyservices.com/guides/clean-gutters-yourself-or-hire/) Guide When the ladder makes it a job for us.
 - ![Drawing of a downspout turning into an extension pipe that runs out along a lawn sloping away from the house, with a splash block at its end](https://fannonpropertyservices.com/assets/drawn/dsp-extension.svg) [Where downspouts should drain](https://fannonpropertyservices.com/guides/where-should-downspouts-drain/) How far out the roof water should land.
 - ![Drawing of a roof edge with a gutter packed with leaves, rain water spilling over its front and landing against the house wall](https://fannonpropertyservices.com/assets/drawn/clog-overflow.svg) [What clogged gutters cause](https://fannonpropertyservices.com/guides/what-happens-if-gutters-are-clogged/) Where the water goes when a gutter fills.
+- ![Drawing of a gutter cut open, leaves jammed where it meets the downspout and water spilling over the far end](https://fannonpropertyservices.com/assets/drawn/go-outlet-clog.svg) [Gutters overflowing in heavy rain](https://fannonpropertyservices.com/guides/gutters-overflowing-in-heavy-rain/) Plugged outlet, lost slope or too small: how to tell.
 - [All services](https://fannonpropertyservices.com/services/) Lawn care, washing and Christmas lights.
 
 ## Questions

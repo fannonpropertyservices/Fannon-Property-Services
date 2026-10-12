@@ -3,7 +3,7 @@
 > Aerate and overseed a tall fescue lawn in Maryland from mid-August to mid-October, ahead of November frosts. We do this work around Annapolis. Free estimates.
 
 Page: https://fannonpropertyservices.com/guides/when-to-aerate-and-overseed/  
-Last changed: 2026-10-10
+Last changed: 2026-10-11
 
 ---
 
@@ -46,6 +46,8 @@ Source: University of Maryland Extension
 - ![A walk-behind core aerator on a lawn, with soil plugs on the grass behind it](https://fannonpropertyservices.com/assets/gen/services/aeration-phone.webp) [Aeration and overseeding](https://fannonpropertyservices.com/landscape-maintenance/aeration-overseeding/) By itself, or with mowing.
 - ![Rows of new sod being laid across bare soil in a backyard](https://fannonpropertyservices.com/assets/gen/services/sod-phone.webp) [Sod installation](https://fannonpropertyservices.com/landscape-maintenance/) A new lawn, laid as sod.
 - ![A brick-edged flower bed in bloom beside a mown lawn](https://fannonpropertyservices.com/assets/own/portfolio/img_0581.webp) [Lawn and landscape care](https://fannonpropertyservices.com/landscape-maintenance/) Mowing, beds and cleanups.
+- ![Drawing of tall fescue growing in three dense clumps with roots fanning under each](https://fannonpropertyservices.com/assets/drawn/gs-tall-fescue.svg) [Which grass seed suits Maryland](https://fannonpropertyservices.com/guides/best-grass-seed-for-maryland/) Tall fescue, and what to read on the tag.
+- ![Drawing of a carpet of grass seedlings an inch tall, with a shoe print beside them crossed out](https://fannonpropertyservices.com/assets/drawn/ns-week3.svg) [Watering and mowing new grass](https://fannonpropertyservices.com/guides/new-grass-seed-watering-and-first-mow/) The first six weeks after the seed goes down.
 - ![A landscaper pushing a mower across a striped front lawn](https://fannonpropertyservices.com/assets/gen/services/mowing-phone.webp) [Maryland lawn calendar](https://fannonpropertyservices.com/guides/maryland-lawn-calendar/) Mowing, seeding and leaf dates.
 
 ## Questions
@@ -64,7 +66,7 @@ Not always. The ideal is once a year in fall, just before seeding. That is espec
 
 ### What should I do after aerating and overseeding?
 
-Keep the soil moist. Water new grass lightly and often, so the top inch stays moist but not soaked. For several weeks, seedlings may need watering several times a day. On newly planted ground, people and pets should stay off for at least a month after sprouting.
+Keep the top inch of soil moist with light, frequent watering until the grass is tall enough to mow. Our guide Watering and mowing new grass takes the first six weeks week by week.
 
 ### What does aeration and overseeding do for a lawn?
 

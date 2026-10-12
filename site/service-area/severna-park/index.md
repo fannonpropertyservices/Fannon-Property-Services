@@ -3,7 +3,7 @@
 > Lawn and bed care, house washing, gutter cleaning and Christmas lights in every part of Severna Park, about 8 miles north of Annapolis. Free estimates.
 
 Page: https://fannonpropertyservices.com/service-area/severna-park/  
-Last changed: 2026-10-10
+Last changed: 2026-10-11
 
 ---
 
@@ -59,7 +59,7 @@ All of them. We work in Chartwell, Round Bay, Linstead, Olde Severna Park, West 
 
 ### My yard is full of mature trees. What can you take care of?
 
-The gutters that fill with leaves every fall, the beds that want fresh mulch each spring and the siding that turns green on the shaded side. We clean the gutters, redo the beds, wash the siding and mow the lawn, so you deal with one company for all of it.
+The gutters that fill with leaves every fall, the beds that want fresh mulch each spring and the siding that turns green on the shaded side. We clean the gutters, redo the beds, wash the siding and mow the lawn, so you deal with one company for all of it. For the grass under the trees, read our guide Grass won't grow in shade.
 
 ### How far is Severna Park from where you are based?
 
