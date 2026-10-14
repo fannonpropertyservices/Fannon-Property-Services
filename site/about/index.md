@@ -3,7 +3,7 @@
 > We are a locally owned, insured company based in Annapolis, Maryland. We look after the outside of homes and commercial properties across Anne Arundel County.
 
 Page: https://fannonpropertyservices.com/about/  
-Last changed: 2026-10-10
+Last changed: 2026-10-14
 
 ---
 
@@ -92,7 +92,7 @@ Google reviews
 
 5.0 on Google from 13 reviews (October 2026)
 
-[Read every review on Google](https://maps.google.com/?cid=11594419381967279887)
+[Read every review on Google](https://maps.google.com/?cid=11594419381967279887) [Leave a review](https://g.page/r/CQ9XEH__puegEBM/review)
 
 > “Fannon Property Services did an awesome job putting up our holiday lights! They are professional and prepared to handle the job. Easy installation and a no worry takedown. I highly recommend giving them a try!”
 

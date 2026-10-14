@@ -3,7 +3,7 @@
 > Lawn mowing, aeration and overseeding, mulch and planting beds, sod and seasonal cleanups in Annapolis and Anne Arundel County. Priced by quote, free estimate.
 
 Page: https://fannonpropertyservices.com/landscape-maintenance/  
-Last changed: 2026-10-11
+Last changed: 2026-10-14
 
 ---
 
@@ -108,7 +108,7 @@ Google reviews
 
 ## A lawn customer’s review.
 
-[Read every review on Google](https://maps.google.com/?cid=11594419381967279887)
+[Read every review on Google](https://maps.google.com/?cid=11594419381967279887) [Leave a review](https://g.page/r/CQ9XEH__puegEBM/review)
 
 > “I highly recommend Fannon Property Services! They did an excellent job cutting my grass and made my yard look fantastic. They were professional, punctual, and paid great attention to detail.”
 

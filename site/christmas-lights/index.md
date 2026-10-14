@@ -3,7 +3,7 @@
 > Christmas lights from $650 for a single-story front roofline in Anne Arundel County. Design, install, fixes, takedown and storage included. Free estimate.
 
 Page: https://fannonpropertyservices.com/christmas-lights/  
-Last changed: 2026-10-11
+Last changed: 2026-10-14
 
 ---
 
@@ -158,7 +158,7 @@ Google reviews
 
 ## What lights customers wrote.
 
-[Read every review on Google](https://maps.google.com/?cid=11594419381967279887)
+[Read every review on Google](https://maps.google.com/?cid=11594419381967279887) [Leave a review](https://g.page/r/CQ9XEH__puegEBM/review)
 
 > “Fannon Property Services did an awesome job putting up our holiday lights! They are professional and prepared to handle the job. Easy installation and a no worry takedown. I highly recommend giving them a try!”
 
