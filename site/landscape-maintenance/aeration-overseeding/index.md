@@ -3,7 +3,7 @@
 > We aerate and overseed lawns in Annapolis and across Anne Arundel County. Maryland lawns are usually seeded from mid-August to mid-October. Free estimates.
 
 Page: https://fannonpropertyservices.com/landscape-maintenance/aeration-overseeding/  
-Last changed: 2026-10-11
+Last changed: 2026-10-30
 
 ---
 
@@ -59,6 +59,10 @@ By quote, for each lawn, and the estimate costs nothing. Send us the address and
 ### What should I tell you about my lawn before you quote it?
 
 Send the property address and your town, and say you want aeration and overseeding. If you want mowing as well, say how often. We reply by text or phone, ask for whatever else we need, and set a time to see the lawn if the job needs a visit.
+
+Sources and further reading
+
+- [UMD lawn calendar](https://extension.umd.edu/resource/lawn-maintenance-calendar)
 
 ## Get a free estimate.
 

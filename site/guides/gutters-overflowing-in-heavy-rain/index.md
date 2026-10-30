@@ -3,7 +3,7 @@
 > A gutter that spills in a downpour is plugged at the downspout, holding water in a low spot, or too small for its roof. How to tell which from the ground.
 
 Page: https://fannonpropertyservices.com/guides/gutters-overflowing-in-heavy-rain/  
-Last changed: 2026-10-11
+Last changed: 2026-10-30
 
 ---
 
@@ -62,6 +62,11 @@ No. A gutter that slopes toward its downspout empties itself. Water still standi
 ### How do I tell if the downspout itself is blocked?
 
 Watch the bottom of it in rain, or while the gutter is flushed with a hose. West Virginia University Extension's gutter guide says to start at the low end by the outlet and keep an eye on the drain spout: water that does not flow freely out of it means a blockage inside the pipe or its elbows.
+
+Sources and further reading
+
+- [Building America gutter sizing](https://basc.pnnl.gov/resource-guides/gutters-and-downspouts)
+- [USGS rainfall volumes](https://www.usgs.gov/water-science-school/science/rain-and-precipitation)
 
 ## Get a free estimate.
 

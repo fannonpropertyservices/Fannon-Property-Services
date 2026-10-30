@@ -3,7 +3,7 @@
 > Lay mulch 2 to 3 inches deep and keep it off the bark. Over old mulch, add only enough to reach that depth again. We install mulch around Annapolis, Maryland.
 
 Page: https://fannonpropertyservices.com/guides/how-deep-should-mulch-be/  
-Last changed: 2026-10-10
+Last changed: 2026-10-30
 
 ---
 
@@ -78,6 +78,10 @@ In flower beds, mulch after the plants are in and the soil has warmed up, while 
 ### Can I mulch in the fall?
 
 Yes, mulch can go down in fall. Winter mulch goes on perennials in late fall, after several killing frosts. Put on too early, the warmth it holds can start new growth and badly damage the plant. Trees and shrubs planted in fall are mulched as part of planting.
+
+Sources and further reading
+
+- [UMD excess mulch guidance](https://extension.umd.edu/resource/excess-mulch-problems)
 
 ## Get a free estimate.
 

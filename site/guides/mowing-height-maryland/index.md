@@ -3,7 +3,7 @@
 > Mow tall and fine fescue at 3 to 4 inches, bluegrass at 2½ to 3½, zoysia at 1½ to 2½. The right height can cut weeds and disease in tall fescue by half or more.
 
 Page: https://fannonpropertyservices.com/guides/mowing-height-maryland/  
-Last changed: 2026-10-11
+Last changed: 2026-10-30
 
 ---
 
@@ -75,6 +75,10 @@ Not when the lawn is mowed often enough. Penn State Extension says clippings do 
 ### What is the one-third rule for mowing?
 
 Mow often enough that a single cut takes only a third of the leaf height. Virginia Cooperative Extension says that will probably be every five to six days in the active growing season and every 10 days or less when growth slows, and that the grass should be dry when it is cut.
+
+Sources and further reading
+
+- [UMD mowing heights](https://extension.umd.edu/resource/maintaining-established-lawn)
 
 ## Get a free estimate.
 

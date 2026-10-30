@@ -3,7 +3,7 @@
 > Christmas lights from $650 for a single-story front roofline in Anne Arundel County. Design, install, fixes, takedown and storage included. Free estimate.
 
 Page: https://fannonpropertyservices.com/christmas-lights/  
-Last changed: 2026-10-14
+Last changed: 2026-10-30
 
 ---
 
@@ -40,6 +40,8 @@ Book by October 31 and save 10%.
 From $650 for a single-story home, front roofline only. One payment covers the design, installation on a timer, fixes all season, takedown after New Year's and storage all year. Bushes, trees and more rooflines are priced in your free estimate.
 
 ## The work, in daylight.
+
+Clips hold the lights along the roof edge. Here is our crew during installation.
 
 - ![A Fannon crew member kneeling on a shingle roof, setting clips for Christmas lights along the edge](https://fannonpropertyservices.com/assets/own/portfolio/224083c5.webp) Clipping lights to a roof edge.
 - ![Ladders set up at the front of a white two-story home](https://fannonpropertyservices.com/assets/own/portfolio/img_5289.webp) Ladders up at a customer's home.

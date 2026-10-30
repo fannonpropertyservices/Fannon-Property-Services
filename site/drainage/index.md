@@ -3,7 +3,7 @@
 > Standing water in the yard, by the house or beside the driveway? We offer river rock drainage and French drains in Anne Arundel County. Free estimate.
 
 Page: https://fannonpropertyservices.com/drainage/  
-Last changed: 2026-10-12
+Last changed: 2026-10-30
 
 ---
 
@@ -17,7 +17,7 @@ Water sitting by the driveway, against the house or in the lawn? We will quote a
 
 ![A river rock channel running beside a driveway](https://fannonpropertyservices.com/assets/own/drainage-hero-desk.webp)
 
-*River rock drainage beside a driveway.*
+*A river rock channel we built beside a driveway.*
 
 ## Water that sits in the yard
 
@@ -27,7 +27,7 @@ Where it sits, when it shows up and how long it stays. Which fix fits depends on
 
 ![A wide, shallow puddle on a lawn beside a downspout after rain](https://fannonpropertyservices.com/assets/gen/services/standing-water-desk.webp)
 
-[Text (443) 223-8643](sms:+14432238643) [Standing water in the yard](https://fannonpropertyservices.com/guides/standing-water-in-yard/)
+[Text (443) 223-8643](sms:+14432238643) [Standing water in the yard](https://fannonpropertyservices.com/guides/standing-water-in-yard/) [Where downspouts should drain](https://fannonpropertyservices.com/guides/where-should-downspouts-drain/)
 
 ### Who do you call for standing water in the yard?
 
@@ -77,6 +77,10 @@ It depends on the yard, so each drainage job gets its own quote, and that quote 
 ### What is river rock drainage?
 
 Drainage built with river rock, like the rock-lined strip we built beside a driveway. The other kind of drainage we offer is a French drain. Which one fits depends on the yard.
+
+Sources and further reading
+
+- [DNREC French drain guide](https://documents.dnrec.delaware.gov/I-ADAPT/AdaptationStrategies/French%20Drain%20for%20Yard.pdf)
 
 ## Get a free estimate.
 

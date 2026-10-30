@@ -1,17 +1,16 @@
 # Christmas Light Installation in Crownsville, MD
 
-> Christmas lights for Crownsville, Herald Harbor and Arden on the Severn: leased, on a timer, taken down and stored. From $650 for a single-story front roofline.
+> Christmas lights for Crownsville homes, including design, installation, takedown and storage. From $650 for a single-story front roofline.
 
 Page: https://fannonpropertyservices.com/service-area/crownsville/christmas-lights/  
-Last changed: 2026-10-11
+Last changed: 2026-10-30
 
 ---
 
-# Christmas light installation in Crownsville.
+# Christmas lights for your Crownsville home.
 
-The Magic of Christmas is on the county fairgrounds' calendar for December 11, 2026. For lights on your own house in Crownsville, Arden on the Severn or Herald Harbor, ask us.
+We design and install lights in Crownsville, including Arden on the Severn and Herald Harbor. From $650 for a single-story front roofline, with maintenance, takedown and storage included.
 
-- From $650
 - Free estimates
 - Insured
 
@@ -19,62 +18,66 @@ The Magic of Christmas is on the county fairgrounds' calendar for December 11, 2
 
 *Warm white on every roofline, seen from the road.*
 
-## The fairgrounds in December
+## Your lights for the season.
 
-December 11, 2026
+$650
 
-The Anne Arundel County Fairgrounds on Generals Highway list The Magic of Christmas for this date, with details still to come.
+Starting price for a single-story front roofline.
 
-*Map of Crownsville, north up, with Herald Harbor and Arden on the Severn outlined to its north and a star at the county fairgrounds on Generals Highway for The Magic of Christmas on December 11, 2026*
+One payment leases the lights for the season and includes design, installation, maintenance, takedown and storage.
 
-- **Since 1952** the fairgrounds have hosted festivals and fairs.
+Additional rooflines, bushes and trees are priced in your free estimate. Send the property address and the areas you want lit.
 
-### Do you do Christmas lights in Crownsville?
+- **Design** Tell us your preferred colors, or ask for design options.
+- **Timer** Lights installed and set on a timer.
+- **January** Takedown after New Year's, then storage until next season.
 
-Yes. We install Christmas lights across Crownsville and the river communities of Herald Harbor and Arden on the Severn, from $650 for a single-story home with its front roofline lit. The lights are ours, leased to you for the season: designed for the house, put on a timer, repaired if a strand fails, taken down after New Year's and stored.
+[What changes the lighting price](https://fannonpropertyservices.com/guides/christmas-light-installation-cost/)
 
-Sources: the Anne Arundel County Fairgrounds, the county's draft Region 6 Plan, Maryland property records and two Macaroni KID listings. Checked on 11 October 2026.
+### Do you install Christmas lights in Crownsville?
 
-## A shop can have lights too.
+Yes. We design and install Christmas lights for homes in Crownsville, including Arden on the Severn and Herald Harbor. A single-story front roofline starts at $650. The seasonal lease covers the lights, installation, timer, in-season fixes, takedown after New Year's and storage. Additional rooflines, bushes and trees are quoted separately.
 
-On Generals Highway or off it, describe the storefront and it gets a quote of its own.
+## Trees and bushes, too.
+
+Add trees and bushes to your lighting design. They are priced in your free estimate.
 
 ![Red, green and white lights wrapped around a tree](https://fannonpropertyservices.com/assets/own/portfolio/img_0685.webp)
 
 *A tree wrapped in three colors.*
 
-## More lights, near and far.
+## More about lights and where we work.
 
-- ![Red, green and white lights on a roofline and a tree](https://fannonpropertyservices.com/assets/own/portfolio/img_6579.webp) [Christmas lights](https://fannonpropertyservices.com/christmas-lights/) The $650 start and what it lights.
-- ![Map with Crownsville, Herald Harbor and Arden on the Severn marked beside the Severn River, northwest of Annapolis](https://fannonpropertyservices.com/assets/own/map-crownsville-desk.webp) [Crownsville](https://fannonpropertyservices.com/service-area/crownsville/) Mowing to gutters in Crownsville.
-- ![Map with Severna Park marked in the middle of the area we work in, north of Annapolis, with Pasadena, Gambrills, Crownsville and Arnold around it](https://fannonpropertyservices.com/assets/own/map-severna-park-desk.webp) [Severna Park Christmas lights](https://fannonpropertyservices.com/service-area/severna-park/christmas-lights/) Houses on the creeks off the Severn.
-- ![Map with Annapolis Neck marked south of Annapolis, between the South River and the Chesapeake Bay](https://fannonpropertyservices.com/assets/own/map-annapolis-neck-desk.webp) [Annapolis Neck Christmas lights](https://fannonpropertyservices.com/service-area/annapolis-neck/christmas-lights/) Lit boats off the city front.
+- ![Red, green and white lights on a roofline and a tree](https://fannonpropertyservices.com/assets/own/portfolio/img_6579.webp) [Christmas lights](https://fannonpropertyservices.com/christmas-lights/) Rooflines, colors and what the seasonal lease includes.
+- ![Map with Crownsville, including Arden on the Severn and Herald Harbor marked beside the Severn River, northwest of Annapolis](https://fannonpropertyservices.com/assets/own/map-crownsville-desk.webp) [Crownsville](https://fannonpropertyservices.com/service-area/crownsville/) Lawn care, gutters, washing and drainage.
+- ![Map with Severna Park marked in the middle of the area we work in, north of Annapolis, with Pasadena, Gambrills, Crownsville and Arnold around it](https://fannonpropertyservices.com/assets/own/map-severna-park-desk.webp) [Severna Park Christmas lights](https://fannonpropertyservices.com/service-area/severna-park/christmas-lights/) Design, installation and seasonal maintenance.
+- ![Map with Annapolis Neck marked south of Annapolis, between the South River and the Chesapeake Bay](https://fannonpropertyservices.com/assets/own/map-annapolis-neck-desk.webp) [Annapolis Neck Christmas lights](https://fannonpropertyservices.com/service-area/annapolis-neck/christmas-lights/) Choose colors, rooflines and trees for your home.
 
-## Questions from Crownsville
+## Questions about your lights
 
-### Is The Magic of Christmas a light display?
+### Do you install in Herald Harbor and Arden on the Severn?
 
-The fairgrounds have not said what The Magic of Christmas will be. A family events listing did show the Anne Arundel County Fairgrounds hosting the Annual Fair Family Christmas Drive Through Holiday Display on Friday, November 25, 2022, from 7 to 10 pm. What this December holds is the fair's to announce.
+Yes. We cover Crownsville, including Arden on the Severn and Herald Harbor. Include the property address in your estimate request.
 
-### Is there a big light display to drive through near Crownsville?
+### Can you light more than the front roofline?
 
-Lights on the Bay at Sandy Point State Park is one: a two mile drive along the Bay past more than 70 lit displays, going by its 2024 season. Neither that show nor the fairgrounds' event in Crownsville is our work: we put Christmas lights on houses.
+Yes. We can include additional rooflines, bushes and trees. The $650 starting price covers a single-story front roofline; the other areas are priced in your free estimate.
 
-### Where are the shops along Generals Highway?
+### What if a strand stops working during the season?
 
-The county's draft plan describes these three. At Sunrise Beach Road, seven properties are planned for commercial use, with a restaurant, a coffee shop and small businesses. At Herald Harbor Road there are twelve, two gas and service stations and a bank among them. East of Fairfield Loop, eight commercial properties hold restaurants, a gas station and the Crownsville Post Office. Holiday lighting for any of them is quoted building by building.
+In-season maintenance and fixes are included in the seasonal lease. Contact us if your lights need attention.
 
-### Does it matter how my house is built?
+### Can you put lights on a shop or business?
 
-Not for the price of Christmas lights, which follows what gets lit. State property records for Crownsville's 588 residential parcels list 223 as siding, 146 frame, 56 brick, 27 stucco, 24 asbestos shingle and 14 wood shingle construction. The photos on our Christmas lights page show lit brick and siding homes.
+Yes. Tell us about the building and what you want lit. Commercial lighting is quoted separately.
 
-### Will event traffic on Generals Highway hold up my install?
+### What do you need for an estimate?
 
-It can slow the drive to a Crownsville house, not the work on it. The county's draft Crownsville plan lists traffic from large events, like the County Fair and the Renaissance Festival, among the area's transportation challenges. The 2026 County Fair ran September 16 to 20, well before December.
+Your name, a phone number or email, the property address and the areas you want lit. Include any color preferences with your request.
 
 ## Get a free estimate.
 
-Tell us the Crownsville address and whether you know the colors or want a design to pick from.
+Send the Crownsville, Herald Harbor or Arden on the Severn address and the areas you want lit. Include any color preferences with your request.
 
 [Call (443) 223-8643](tel:+14432238643)
 

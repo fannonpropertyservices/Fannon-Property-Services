@@ -3,7 +3,7 @@
 > Christmas light installers for Hillsmere, Bay Ridge, Highland Beach and the rest of the Annapolis Neck. A single-story front roofline starts at $650.
 
 Page: https://fannonpropertyservices.com/service-area/annapolis-neck/christmas-lights/  
-Last changed: 2026-10-11
+Last changed: 2026-10-30
 
 ---
 
@@ -11,7 +11,7 @@ Last changed: 2026-10-11
 
 On December 12, 2026 the Eastport Yacht Club Lights Parade brings lit boats past Annapolis. Down the Neck, we put the lights on your house.
 
-- From $650
+- From $650 for a single-story front roofline
 - Insured
 - Free estimates
 

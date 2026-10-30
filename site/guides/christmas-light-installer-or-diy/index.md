@@ -3,7 +3,7 @@
 > Hang your own on one story. Hire it out above that: nearly half of holiday decorating injuries are falls, says the CPSC. We lease and hang lights from $650.
 
 Page: https://fannonpropertyservices.com/guides/christmas-light-installer-or-diy/  
-Last changed: 2026-10-11
+Last changed: 2026-10-30
 
 ---
 
@@ -44,8 +44,8 @@ ESFI adds a wooden or fiberglass ladder, and 10 feet between you and any power l
 
 *Drawing of an extension ladder leaning on a roof edge with its base set out one quarter of its working length, its top at least three feet past the edge, and three dots marking three points of contact*
 
-- **14,900** people treated in emergency rooms in one holiday season
-- **14%** of on-the-job ladder falls seen in an ER led to a hospital stay
+- **4 to 1** Set a straight or extension ladder base out one quarter of its working length, OSHA advises.
+- **3 feet** An access ladder should extend at least this far above its support point.
 
 Sources: U.S. Consumer Product Safety Commission, CDC (2014), OSHA and ESFI. Checked on 11 October 2026.
 
@@ -83,6 +83,11 @@ Yes. ESFI says to turn off all outdoor electrical decorations before leaving hom
 ### Do you put up lights I bought myself?
 
 Ask before you count on it. What we quote is a lease: our lights, put up on a timer, fixed during the season, taken down and stored. If all you want is help hanging strings you already own, say so when you send the address and we will tell you whether it fits.
+
+Sources and further reading
+
+- [OSHA ladder safety](https://www.osha.gov/sites/default/files/publications/PORTABLE_LADDER_QC.pdf)
+- [CPSC holiday decorating safety](https://www.cpsc.gov/Newsroom/News-Releases/2025/Happy-Holidays-Start-with-Safety-CPSC-Urges-Families-to-Cook-Decorate-and-Select-Toys-with-Care-This-Season)
 
 ## Get a free estimate.
 

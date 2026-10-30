@@ -1,15 +1,15 @@
-# Edgewater, MD Gutter Cleaning, Old Homes and New
+# Gutter Cleaning in Edgewater and Londontowne, MD
 
-> Gutter cleaning in Edgewater and Londontowne, MD. About 18 percent of Edgewater's homes were built before 1950, twice the county share. Free estimates.
+> Leaves and debris cleared from gutters on Edgewater and Londontowne homes. Free estimates. Tell us where you have seen overflow.
 
 Page: https://fannonpropertyservices.com/service-area/edgewater/gutter-cleaning/  
-Last changed: 2026-10-10
+Last changed: 2026-10-30
 
 ---
 
-# Gutter cleaning for Edgewater homes, old and new.
+# Gutter cleaning in Edgewater and Londontowne.
 
-In Edgewater and Londontowne, we clear out the leaves and debris that stop a gutter draining.
+We clear leaves and debris so rain can run to the downspout. Tell us which gutters need attention and where you have seen overflow.
 
 - Insured
 - Locally owned
@@ -17,51 +17,50 @@ In Edgewater and Londontowne, we clear out the leaves and debris that stop a gut
 
 ![Drawing of a gutter along a roof edge, packed with leaves at one end and clear at the other, with a downspout, over an older house with a porch, by the water](https://fannonpropertyservices.com/assets/drawn/hero-edgewater-gutters.svg)
 
-## Older than the county
+## A gutter, before and after cleaning.
 
-Twice the share.
+We cleared the leaves from this gutter. The photos show the same job from different angles.
 
-About 18 percent of Edgewater's homes were built before 1950. Across the county it is about 9 percent.
+- ![A gutter packed with wet leaves at the edge of a metal roof](https://fannonpropertyservices.com/assets/own/portfolio/img_0368.webp) Before: full of leaves.
+- ![A gutter cleared of leaves, seen from the ladder](https://fannonpropertyservices.com/assets/own/portfolio/img_0439.webp) After: the same gutter, cleaned out.
 
-*Drawing of two grids of 100 small houses: 18 white houses for Edgewater homes built before 1950, and 9 for the county*
+### What does gutter cleaning do?
 
-- **3 in 4** Edgewater homes are detached houses, with about 700 townhouse style homes besides.
-- **1 in 5** acres of Edgewater's land is woods: about 9 percent deciduous, 6 percent mixed forest and 4 percent wooded wetland.
+Gutter cleaning removes leaves and debris so rain can run to the downspout. We clean gutters on homes in Edgewater and Londontowne, with a free quote for each house. Tell us which gutters need attention and where water has been overflowing. If the job needs a walkthrough, we arrange one.
 
-### Who can clean the gutters on an older Edgewater home?
+## Getting your gutter estimate.
 
-We can. We clean gutters on homes across Edgewater and Londontowne. In Edgewater, about 18 percent of the houses were built before 1950, twice the county's share. Old or new, we clear out the leaves and debris that keep rain from reaching the downspout. The estimate costs nothing; text (443) 223-8643.
-
-Sources: US Census Bureau, US Geological Survey and US Forest Service. Checked October 8, 2026.
-
-## Edgewater, by the water.
-
-- **Water on three sides** The county plan describes Edgewater as a peninsula bounded by Beards Creek, Glebe Creek and the South River.
-- **More than a fifth is water** About 22 percent of the Edgewater census area is water.
-- **Flood zones by the shore** Flood maps around Edgewater include coastal VE zones with base flood elevations of 7, 8 and 10 feet. Check your own address on the FEMA map.
+- **Send the address.** Include the Edgewater or Londontowne street address in your request.
+- **Describe the problem.** Tell us which gutters need cleaning and where you have seen water spilling over the edge.
+- **Get your quote.** Every estimate is free. If we need a closer look before pricing, we arrange a walkthrough.
 
 ![Map with Edgewater and Londontowne marked south of Annapolis, and Riva to the west](https://fannonpropertyservices.com/assets/own/map-edgewater-desk.webp)
 
-## Along the South River.
+## Gutters and nearby services.
 
-- ![A worker on a ladder lifting leaves out of a gutter in autumn](https://fannonpropertyservices.com/assets/gen/services/gutter-cleaning-phone.webp) [Gutter cleaning](https://fannonpropertyservices.com/gutters/) The service, the photos and how to ask.
-- ![Drawing of an older cottage with a steep roof and a front porch, by the water](https://fannonpropertyservices.com/assets/drawn/edgc-card.svg) [Edgewater](https://fannonpropertyservices.com/service-area/edgewater/) Lawns, washing and lights in Edgewater.
-- ![Drawing of three houses along a street, with a tall street tree beside each](https://fannonpropertyservices.com/assets/drawn/rvgc-card.svg) [Riva gutters](https://fannonpropertyservices.com/service-area/riva/gutter-cleaning/) Across Beards Creek, under deeper woods.
-- ![Drawing of two houses close together under big trees, with water behind them](https://fannonpropertyservices.com/assets/drawn/angc-card.svg) [Annapolis Neck gutters](https://fannonpropertyservices.com/service-area/annapolis-neck/gutter-cleaning/) Over the South River, toward the Bay.
+- ![A worker on a ladder lifting leaves out of a gutter in autumn](https://fannonpropertyservices.com/assets/gen/services/gutter-cleaning-phone.webp) [Gutter cleaning](https://fannonpropertyservices.com/gutters/) Cleaning, gutter guards and free estimates.
+- ![Drawing of an older cottage with a steep roof and a front porch, by the water](https://fannonpropertyservices.com/assets/drawn/edgc-card.svg) [Edgewater](https://fannonpropertyservices.com/service-area/edgewater/) Lawn care, washing and lights in Edgewater.
+- ![Drawing of three houses along a street, with a tall street tree beside each](https://fannonpropertyservices.com/assets/drawn/rvgc-card.svg) [Riva gutters](https://fannonpropertyservices.com/service-area/riva/gutter-cleaning/) Send the Riva property address for a quote.
+- ![Drawing of two houses close together under big trees, with water behind them](https://fannonpropertyservices.com/assets/drawn/angc-card.svg) [Annapolis Neck gutters](https://fannonpropertyservices.com/service-area/annapolis-neck/gutter-cleaning/) Ask for gutter cleaning, guards or both.
+- [Gutters overflowing in heavy rain](https://fannonpropertyservices.com/guides/gutters-overflowing-in-heavy-rain/) Clog, slope or size: what to check.
 
-## Questions
+## Questions about gutter cleaning
 
 ### Do you clean gutters in Londontowne too?
 
-Yes, Londontowne is part of the Edgewater area we cover. The county plan names London Towne as an area at great risk from sea level rise and calls for county support for living shoreline projects there. A clean gutter will not change that, but it does send the roof's rain to the downspout.
+Yes. We clean gutters in Edgewater and Londontowne. Send the property address with your request.
 
-### How much of Edgewater is under trees?
+### How much does gutter cleaning cost?
 
-About 38 percent of its land, going by the 2021 national tree canopy layer, which puts it well below Riva next door at about 56 percent. Where a roof does sit under branches, the gutters catch the leaves.
+We quote each job for the house. Tell us which gutters need cleaning and whether you have seen overflow. Your estimate is free.
+
+### Can I get a cleaning without gutter guards?
+
+Yes. You can ask for gutter cleaning on its own. If you also want guards, include them in your estimate request.
 
 ## Get a free estimate.
 
-Give us the Edgewater street and what the gutters are doing, and a reply comes by text or a call.
+Tell us the Edgewater or Londontowne address and which gutters need attention. We text or call back.
 
 [Call (443) 223-8643](tel:+14432238643)
 

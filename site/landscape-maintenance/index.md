@@ -3,7 +3,7 @@
 > Lawn mowing, aeration and overseeding, mulch and planting beds, sod and seasonal cleanups in Annapolis and Anne Arundel County. Priced by quote, free estimate.
 
 Page: https://fannonpropertyservices.com/landscape-maintenance/  
-Last changed: 2026-10-14
+Last changed: 2026-10-30
 
 ---
 
@@ -46,9 +46,9 @@ Cleanups, seeding, sod, snow and irrigation.
 
 *Video of a Fannon crew member planting a front bed beside a stone house*
 
-## See the bed take shape.
+## Planting a front bed.
 
-Our crew planting the front bed beside this stone house.
+We planted and mulched this front bed beside a stone house. Watch our crew at work.
 
 ## Beds and borders.
 
@@ -60,6 +60,7 @@ Our crew planting the front bed beside this stone house.
 
 - [Yard drainage](https://fannonpropertyservices.com/drainage/)
 - [Snow and ice for businesses](https://fannonpropertyservices.com/commercial/#snow)
+- [How deep should mulch be?](https://fannonpropertyservices.com/guides/how-deep-should-mulch-be/)
 - [Leaf pickup rules](https://fannonpropertyservices.com/guides/yard-waste-and-leaf-pickup-rules/)
 - [Cutting back perennials](https://fannonpropertyservices.com/guides/cut-back-perennials-fall-or-spring/)
 - [Grass under trees](https://fannonpropertyservices.com/guides/grass-wont-grow-in-shade/)
@@ -113,6 +114,10 @@ Google reviews
 > “I highly recommend Fannon Property Services! They did an excellent job cutting my grass and made my yard look fantastic. They were professional, punctual, and paid great attention to detail.”
 
 *Marissa G. [Google review](https://maps.google.com/?cid=11594419381967279887)*
+
+Sources and further reading
+
+- [UMD mowing guidance](https://extension.umd.edu/resource/maintaining-established-lawn)
 
 ## Get a free estimate.
 

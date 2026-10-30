@@ -3,7 +3,7 @@
 > Water new grass seed lightly several times a day, a quarter inch at a time, until the first mow, usually at 4 to 6 weeks. Then water deeper and less often.
 
 Page: https://fannonpropertyservices.com/guides/new-grass-seed-watering-and-first-mow/  
-Last changed: 2026-10-11
+Last changed: 2026-10-30
 
 ---
 
@@ -56,6 +56,10 @@ When the seedlings are tall enough to mow. Then water less often but for longer,
 ### Why did my grass seed not come up?
 
 Usually it dried out. The top of the soil dries fastest on windy, dry, warm days, on sandy soil, and on compacted ground that will not take water back in. Old seed, seed buried under more than half an inch of soil, shade, or sowing outside the mid-August to mid-October window are the other common reasons University of Maryland Extension lists.
+
+Sources and further reading
+
+- [UMD seedling care](https://extension.umd.edu/resource/starting-new-lawn)
 
 ## Get a free estimate.
 

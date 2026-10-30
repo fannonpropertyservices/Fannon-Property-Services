@@ -3,7 +3,7 @@
 > Tall fescue needs 4 hours of direct sun and fine fescue 2. Count the hours, overseed where there is light, and mulch or plant sedges where there is not.
 
 Page: https://fannonpropertyservices.com/guides/grass-wont-grow-in-shade/  
-Last changed: 2026-10-11
+Last changed: 2026-10-30
 
 ---
 
@@ -66,6 +66,10 @@ Sedges and shade groundcovers, or just mulch. University of Maryland Extension s
 ### Do tree roots stop grass from growing?
 
 They compete for it. Tree roots take moisture and nutrients from the top of the soil and the canopy blocks rain, so the grass beneath runs dry first. University of Maryland Extension says irrigation can help but is not a sustainable fix, because it does nothing about the missing sunlight.
+
+Sources and further reading
+
+- [UMD lawn site conditions](https://extension.umd.edu/resource/starting-new-lawn)
 
 ## Get a free estimate.
 

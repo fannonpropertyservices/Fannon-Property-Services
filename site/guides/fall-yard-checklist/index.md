@@ -3,7 +3,7 @@
 > What to do in a Maryland yard each fall: seed by mid-October, clean the gutters, plant shrubs, clear leaves and plan the last mow.
 
 Page: https://fannonpropertyservices.com/guides/fall-yard-checklist/  
-Last changed: 2026-10-10
+Last changed: 2026-10-30
 
 ---
 
@@ -72,6 +72,11 @@ Yes, for most households, at the curb all year, in paper yard waste bags or a ri
 ### How much does a fall cleanup cost?
 
 We quote every cleanup, and the estimate is free. Send the address and what the yard needs. We reply by text or call, and we walk the property first when the job calls for it.
+
+Sources and further reading
+
+- [UMD lawn calendar](https://extension.umd.edu/resource/lawn-maintenance-calendar)
+- [UMD mulching guidance](https://extension.umd.edu/resource/mulching-trees-and-shrubs)
 
 ## Get a free estimate.
 

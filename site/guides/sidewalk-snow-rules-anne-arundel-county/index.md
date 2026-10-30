@@ -3,7 +3,7 @@
 > Anne Arundel County gives you 24 hours to clear the sidewalk after a storm under 3 inches and 48 hours at 3 inches or more. The complaint, the notice, the fine.
 
 Page: https://fannonpropertyservices.com/guides/sidewalk-snow-rules-anne-arundel-county/  
-Last changed: 2026-10-11
+Last changed: 2026-10-30
 
 ---
 
@@ -81,6 +81,10 @@ Yes. The City of Annapolis requires both residential and commercial property own
 ### Does ice melt hurt the grass beside the sidewalk?
 
 It can. University of Maryland Extension lists poor or stunted spring growth in grass next to walks, driveways and streets as a sign of salt damage, and says most cases are treated by soaking the area with 1 inch of water three or four times in spring. Sand, ashes or kitty litter give traction without salt, and Maryland's Lawn Fertilizer Law bans fertilizer as an ice melter.
+
+Sources and further reading
+
+- [County sidewalk snow rules](https://www.aacounty.org/inspections-and-permits/licenses/snowice-removal-sidewalks)
 
 ## Get a free estimate.
 

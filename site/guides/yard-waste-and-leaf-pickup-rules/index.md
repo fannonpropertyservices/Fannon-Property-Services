@@ -3,7 +3,7 @@
 > Anne Arundel County takes leaves in paper yard waste bags or an X-marked can, up to 40 pounds each, out before 6 a.m. Annapolis and Kent Island rules too.
 
 Page: https://fannonpropertyservices.com/guides/yard-waste-and-leaf-pickup-rules/  
-Last changed: 2026-10-10
+Last changed: 2026-10-30
 
 ---
 
@@ -69,6 +69,10 @@ Not on six of them: New Year's Day, Memorial Day, Independence Day, Labor Day, T
 ### Where does yard waste go on Kent Island?
 
 Kent Island is in Queen Anne's County, so Anne Arundel's rules do not apply there. Its transfer stations list yard waste as brush under 4 inches across and 6 feet long, and turn away stumps, dirt and mulch. Getting in takes a ticket book, sold only to county residents and property owners. On the island, the Batts Neck Transfer Station is at 422 Batts Neck Road in Stevensville.
+
+Sources and further reading
+
+- [County yard waste rules](https://www.aacounty.org/public-works/waste-management/curbside-collection/yard-waste)
 
 ## Get a free estimate.
 

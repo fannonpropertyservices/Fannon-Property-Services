@@ -3,16 +3,16 @@
 > Christmas light hanging in Edgewater, MD: a design, a timer, fixes, takedown after New Year's and storage. From $650 for a single-story front roofline.
 
 Page: https://fannonpropertyservices.com/service-area/edgewater/christmas-lights/  
-Last changed: 2026-10-10
+Last changed: 2026-10-30
 
 ---
 
 # Christmas light hanging for Edgewater homes.
 
-Last December, Historic London Town lit its garden paths for Candlelight. We light the rooflines of houses, from $650 for a single story.
+Last December, Historic London Town lit its garden paths for Candlelight. We light the rooflines of houses, from $650 for a single-story front roofline.
 
 - Free estimates
-- From $650
+- From $650 for a single-story front roofline
 - Insured
 
 ![A home with red and white roofline lights and lit wreaths](https://fannonpropertyservices.com/assets/own/portfolio/img_0709.webp)

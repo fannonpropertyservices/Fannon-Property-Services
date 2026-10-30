@@ -3,7 +3,7 @@
 > Clogged gutters spill roof water at the wall. It can soak into the basement and cause mold and rot. In winter a full gutter can freeze and add to an ice dam.
 
 Page: https://fannonpropertyservices.com/guides/what-happens-if-gutters-are-clogged/  
-Last changed: 2026-10-10
+Last changed: 2026-10-30
 
 ---
 
@@ -41,6 +41,11 @@ Sources: Building America Solution Center, National Weather Service and Maryland
 - **Water that stays put** Asian tiger mosquito larvae are in Maryland water April through October.
 - **A soaked strip below** The soil under the gutter line stays wet.
 
+## Check where the water goes.
+
+- [Gutters overflowing in heavy rain](https://fannonpropertyservices.com/guides/gutters-overflowing-in-heavy-rain/)
+- [Where downspouts should drain](https://fannonpropertyservices.com/guides/where-should-downspouts-drain/)
+
 ## Questions
 
 ### Can clogged gutters cause basement flooding?
@@ -58,6 +63,12 @@ Clear leaves and sticks from the gutters and downspouts before winter, so meltin
 ### Do clogged gutters attract pests?
 
 Standing water does. Pooling water attracts a variety of pests, and leaves and plant debris built up in a gutter can invite animals to nest.
+
+Sources and further reading
+
+- [Building America water guidance](https://basc.pnnl.gov/resource-guides/gutters-and-downspouts)
+- [National Weather Service ice dams](https://www.weather.gov/grr/roofIceDams?lv=true)
+- [Maryland mosquito guidance](https://mda.maryland.gov/plants-pests/mosquito-control/mosquito-basics/asian-tiger-mosquito)
 
 ## Get a free estimate.
 

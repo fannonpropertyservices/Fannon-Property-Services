@@ -3,7 +3,7 @@
 > Hang outdoor Christmas lights on a dry roof in early November, before the freeze odds at Annapolis turn. Light them when you like, take them down in January.
 
 Page: https://fannonpropertyservices.com/guides/when-to-put-up-and-take-down-christmas-lights/  
-Last changed: 2026-10-11
+Last changed: 2026-10-30
 
 ---
 
@@ -76,6 +76,10 @@ After New Year's, and on a dry day. By January 2 the sun already sets at 4:55 p.
 ### What is the first frost date gardeners use around Annapolis?
 
 October 25 for central Maryland, the planning date University of Maryland Extension uses for vegetable gardens. NOAA's 1991 to 2020 record of the first 32 degree night at the Annapolis station runs later, into November.
+
+Sources and further reading
+
+- [IKO installation conditions](https://www.iko.com/na/blog/how-to-hang-christmas-lights-on-a-shingle-roof/)
 
 ## Get a free estimate.
 

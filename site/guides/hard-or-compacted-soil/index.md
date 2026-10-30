@@ -3,7 +3,7 @@
 > Two tests for packed soil, a wire and a bucket of water. The fix is core aeration in fall, with compost where organic matter is under 3 percent.
 
 Page: https://fannonpropertyservices.com/guides/hard-or-compacted-soil/  
-Last changed: 2026-10-11
+Last changed: 2026-10-30
 
 ---
 
@@ -66,6 +66,10 @@ Soil cores about half an inch to three quarters wide and 2 to 4 inches long, spa
 ### Is it a good idea to till a compacted lawn?
 
 Only as part of starting over, and only on soil dry enough to crumble when a handful is squeezed. University of Maryland Extension says never to dig, rototill or even walk on soil when it is wet, because that is what packs it. A rototiller mixing compost 4 to 6 inches deep belongs to a lawn renovation, not to an established lawn.
+
+Sources and further reading
+
+- [UMD soil drainage tests](https://extension.umd.edu/resource/common-soil-problems)
 
 ## Get a free estimate.
 

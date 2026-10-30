@@ -3,7 +3,7 @@
 > Downspouts should let water out at least 5 feet from the foundation, on ground that slopes away. Anne Arundel County rules and a tax credit, explained.
 
 Page: https://fannonpropertyservices.com/guides/where-should-downspouts-drain/  
-Last changed: 2026-10-10
+Last changed: 2026-10-30
 
 ---
 
@@ -35,7 +35,7 @@ At least 5 feet from the foundation, letting the water out onto ground that slop
 ## Where the water can go.
 
 - ![Drawing of a downspout turning into an extension pipe that runs out along a lawn sloping away from the house, with a splash block at its end](https://fannonpropertyservices.com/assets/drawn/dsp-extension.svg) **Out onto the lawn.** An extension pipe ending on a splash block, so the soil does not wash away.
-- ![Drawing of a downspout sending water across a lawn and sidewalk toward a storm drain in the street, crossed out](https://fannonpropertyservices.com/assets/drawn/dsp-street.svg) **Never into the street.** In Anne Arundel County it is illegal to send it to a storm drain or the road.
+- ![Drawing of a downspout sending water across a lawn and sidewalk toward a storm drain in the street, crossed out](https://fannonpropertyservices.com/assets/drawn/dsp-street.svg) **Keep runoff off public paths.** Water crossing a sidewalk or entering the road can create a hazard. Check the County discharge guidance before changing an outlet or connecting a pipe.
 - ![Drawing of a downspout filling a rain barrel, with an overflow hose running far out onto the lawn](https://fannonpropertyservices.com/assets/drawn/dsp-rain-barrel.svg) **Into a rain barrel.** With an overflow that lets out at least 5 feet from the house.
 
 Sources: Building America Solution Center, U.S. Environmental Protection Agency, NC State Extension and Anne Arundel County. Checked October 8, 2026.
@@ -54,7 +54,7 @@ Not right at the wall, where they let the water out too close to the house. At t
 
 ### Can downspouts be piped underground?
 
-Yes. A solid, unperforated pipe can carry the water at least 10 feet away and downhill, to a dry well or an outlet at the surface. Never join it to the perforated foundation drain, which soaks the foundation. In Anne Arundel County, never to the storm drain.
+Yes. A solid, unperforated pipe can carry the water away from the house to a suitable outlet. Keep it separate from the perforated foundation drain. Check the County discharge guidance before choosing an outlet or connecting to an existing system.
 
 ### Can a downspout drain into a rain garden?
 
@@ -62,11 +62,17 @@ Yes. Anne Arundel County names rain gardens as one place to send it. A rain gard
 
 ### Is there a county tax credit for stormwater work?
 
-Yes, for some. 10% of the cost of a qualified stormwater practice comes off county property tax each year for 5 years, up to $10,000 in all. The practice must be on the county's approved list, be your own choice rather than a requirement, and pass a county inspection; you apply within 45 days after the work ends, and the credit starts the tax year after approval.
+Some qualified improvements may receive a County property tax credit: 10% of installation and material costs each year for up to five years, capped at $10,000 overall and the County property tax owed each year. Apply within 45 days of completion. The project must be voluntary, on the approved list and meet County requirements. Check eligibility with the County before planning around the credit.
 
 ### Can I point a downspout at my neighbor's yard?
 
-It should not go there. In Anne Arundel County the water should drain onto your own property, not onto the property next door or county land. Ending it at least 10 feet from the property line lets it soak in first.
+Keep runoff on your own property and away from your neighbor's yard. The County suggests ending discharge points at least 10 feet from a property line next to a street or sidewalk, where the water can soak into the ground. The right location depends on the site.
+
+Sources and further reading
+
+- [Building America downspouts](https://basc.pnnl.gov/resource-guides/gutters-and-downspouts)
+- [County downspout guidance](https://www.aacounty.org/public-works/highways/education-outreach/downspouts-and-sump-pump-discharges)
+- [Anne Arundel County: stormwater property tax credit](https://www.aacounty.org/public-works/bwpr/watershed-protection-restoration-fee/stormwater-management-property-tax-credit)
 
 ## Get a free estimate.
 

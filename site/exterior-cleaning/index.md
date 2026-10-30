@@ -3,7 +3,7 @@
 > Pressure washing and power washing for siding, driveways, sidewalks, patios and pavers in Anne Arundel County, plus paver sealing and deck staining.
 
 Page: https://fannonpropertyservices.com/exterior-cleaning/  
-Last changed: 2026-10-10
+Last changed: 2026-10-30
 
 ---
 
@@ -34,6 +34,8 @@ We clean driveways and sidewalks. One surface or several, in the same estimate.
 We pressure wash siding, driveways, sidewalks, patios and pavers. We also seal pavers and stain decks. One estimate can cover a single surface or several, and it is free. We work throughout Anne Arundel County, from our base in Annapolis, and on Kent Island.
 
 ## A diving board and pool deck, cleaned.
+
+One of our poolside cleaning jobs, with the diving board and deck shown before and after.
 
 ![A gray, grimy diving board over brick pavers](https://fannonpropertyservices.com/assets/own/poolside-before.webp)
 

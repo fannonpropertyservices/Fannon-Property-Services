@@ -3,7 +3,7 @@
 > Mow leaves into the lawn, twice if needed, and rake off only what still hides the grass. In Maryland, clear thick leaf cover late October to mid-November.
 
 Page: https://fannonpropertyservices.com/guides/mulch-leaves-or-rake/  
-Last changed: 2026-10-10
+Last changed: 2026-10-30
 
 ---
 
@@ -68,6 +68,10 @@ Move them onto planting beds, which helps wildlife most, or start a compost pile
 ### Should leaves stay in the beds until spring?
 
 Some can. Fallen leaves give pollinators a place to spend the winter, and old leaves break down and add nutrients to the soil, so there is no hurry with the spring cleanup.
+
+Sources and further reading
+
+- [UMD autumn lawn guidance](https://extension.umd.edu/resource/lawn-maintenance-calendar)
 
 ## Get a free estimate.
 

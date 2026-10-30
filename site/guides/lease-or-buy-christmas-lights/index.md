@@ -3,7 +3,7 @@
 > Buy lights if you will hang them yourself for years. Lease when you want nothing to climb, fix, take down or store: one payment from $650 covers it all.
 
 Page: https://fannonpropertyservices.com/guides/lease-or-buy-christmas-lights/  
-Last changed: 2026-10-11
+Last changed: 2026-10-30
 
 ---
 
@@ -80,6 +80,10 @@ Unplug the string first. ESFI says always to unplug electrical decorations befor
 ### Can indoor Christmas lights go outside?
 
 Not unless the label says so. The NFPA notes that some lights are made for indoor or outdoor use but not both, and ESFI says every cord and decoration used outdoors must be marked for outdoor use and plugged into a GFCI-protected outlet.
+
+Sources and further reading
+
+- [Department of Energy LED lights](https://www.energy.gov/articles/how-do-holiday-lights-work)
 
 ## Get a free estimate.
 

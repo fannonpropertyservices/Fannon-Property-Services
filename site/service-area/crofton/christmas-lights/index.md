@@ -3,7 +3,7 @@
 > Christmas light installers for homes in Crofton, Gambrills and Davidsonville, MD. From $650 for a single-story front roofline, with a free estimate.
 
 Page: https://fannonpropertyservices.com/service-area/crofton/christmas-lights/  
-Last changed: 2026-10-10
+Last changed: 2026-10-30
 
 ---
 
@@ -11,7 +11,7 @@ Last changed: 2026-10-10
 
 Last season, six houses on Urby Drive decorated together as Crofton Christmas. We put up lights on homes in Crofton, Gambrills and Davidsonville.
 
-- From $650
+- From $650 for a single-story front roofline
 - Free estimates
 - Insured
 

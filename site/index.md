@@ -3,7 +3,7 @@
 > Lawn and landscape care, pressure washing, gutters, drainage and Christmas lights for homes in Annapolis and Anne Arundel County. One company, free estimates.
 
 Page: https://fannonpropertyservices.com/  
-Last changed: 2026-10-14
+Last changed: 2026-10-10
 
 ---
 

@@ -3,7 +3,7 @@
 > Give standing water 24 to 36 hours to soak in, unless it is causing new damage. Then check downspouts, low spots and packed soil. Free drainage estimates.
 
 Page: https://fannonpropertyservices.com/guides/standing-water-in-yard/  
-Last changed: 2026-10-11
+Last changed: 2026-10-30
 
 ---
 
@@ -62,6 +62,11 @@ When the water is causing new damage, or is still there after 36 hours. Take pho
 ### What if the water is coming from a neighbor's yard?
 
 Talk to the neighbor first. Where a neighbor caused the flooding by redirecting gutter downspouts or blocking a drainage pipe, a one-on-one conversation can often solve it. If that fails, a mediator is an optional next step at no cost or low cost. In Maryland, an upstream owner cannot increase the stormwater flowing onto a downstream owner, and a downstream owner cannot block the natural flow.
+
+Sources and further reading
+
+- [County stormwater guidance](https://www.aacounty.org/public-works/highways/education-outreach/stormwater-runoff)
+- [UMD drainage and compaction](https://extension.umd.edu/resource/lawn-problems-not-caused-pests-or-diseases)
 
 ## Get a free estimate.
 

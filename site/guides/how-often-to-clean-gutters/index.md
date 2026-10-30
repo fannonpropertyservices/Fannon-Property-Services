@@ -3,7 +3,7 @@
 > Clean gutters about twice a year, in spring and early fall, and any time they clog. We clean gutters for homes around Annapolis. Free estimates.
 
 Page: https://fannonpropertyservices.com/guides/how-often-to-clean-gutters/  
-Last changed: 2026-10-11
+Last changed: 2026-10-30
 
 ---
 
@@ -70,6 +70,11 @@ Either can work. On a one-story home, set a sturdy ladder on level ground, and n
 ### Is gutter cleaning necessary?
 
 Yes. Mosquitoes breed in standing water, and as little as one teaspoon is enough. The guide What clogged gutters cause, linked above, shows the rest of the damage.
+
+Sources and further reading
+
+- [DNREC gutter cleaning guide](https://documents.dnrec.delaware.gov/I-ADAPT/AdaptationStrategies/Clean%20Gutters.pdf)
+- [UC ANR gutter maintenance](https://ucanr.edu/program/uc-anr-fire-network/gutters)
 
 ## Get a free estimate.
 

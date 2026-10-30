@@ -3,7 +3,7 @@
 > Plastic clips hook over the gutter lip or grip the shingle edge. Two roofing makers say never staple, nail or screw lights through a roof.
 
 Page: https://fannonpropertyservices.com/guides/christmas-light-clips-shingles-gutters/  
-Last changed: 2026-10-11
+Last changed: 2026-10-30
 
 ---
 
@@ -67,6 +67,10 @@ One clip at a time, the way they went up. Pulling on the string can pull down gu
 ### What keeps roof lights safe to plug in?
 
 Keep every connection clean and dry, CertainTeed says, and read the instructions that come with the lights.
+
+Sources and further reading
+
+- [IKO roof light clips](https://www.iko.com/na/blog/how-to-hang-christmas-lights-on-a-shingle-roof/)
 
 ## Get a free estimate.
 

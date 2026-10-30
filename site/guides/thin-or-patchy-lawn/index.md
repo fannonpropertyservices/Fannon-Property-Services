@@ -3,7 +3,7 @@
 > Tall fescue grows in clumps, so a Maryland lawn cannot close its own gaps. Fix what opened them, then overseed in fall. A very thin lawn can take 2 or 3 falls.
 
 Page: https://fannonpropertyservices.com/guides/thin-or-patchy-lawn/  
-Last changed: 2026-10-11
+Last changed: 2026-10-30
 
 ---
 
@@ -70,6 +70,10 @@ It helps, most of all on packed ground. University of Maryland Extension says me
 ### Will overseeding fix bare patches from my dog?
 
 Only until the next visit. Dog urine damage is hard to remedy, and University of Maryland Extension notes that no groundcover tolerates it better than turf. Water the spot right away to dilute it, reseed the dead patch, and expect to repeat the repair.
+
+Sources and further reading
+
+- [UMD thin lawn repair](https://extension.umd.edu/resource/improving-struggling-lawn-and-repairing-damage)
 
 ## Get a free estimate.
 

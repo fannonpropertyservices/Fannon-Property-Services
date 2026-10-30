@@ -3,7 +3,7 @@
 > Christmas light hanging in Riva, MD: from $650 for a single-story front roofline. A taller house or a townhouse gets its price in a free estimate.
 
 Page: https://fannonpropertyservices.com/service-area/riva/christmas-lights/  
-Last changed: 2026-10-11
+Last changed: 2026-10-30
 
 ---
 
@@ -11,7 +11,7 @@ Last changed: 2026-10-11
 
 From the South River bridge to the far end of Riva Road, and on the streets off it: tell us the house and we price the lights for it.
 
-- From $650
+- From $650 for a single-story front roofline
 - Insured
 - Locally owned
 

@@ -1,9 +1,9 @@
 # Clean Gutters Yourself or Hire Someone? When Each Fits
 
-> Clean your own gutters on a one-story home from a ladder on level ground. Hire it out above that: CDC said in 2014 that 43% of fatal falls involved a ladder.
+> Decide whether to clean your gutters yourself or hire help. Check ladder footing, overhead wires, safe reach and the height of the job before you start.
 
 Page: https://fannonpropertyservices.com/guides/clean-gutters-yourself-or-hire/  
-Last changed: 2026-10-11
+Last changed: 2026-10-30
 
 ---
 
@@ -30,24 +30,24 @@ The work is simple. The ladder is what deserves the thought.
 
 ### When is it worth paying to have gutters cleaned?
 
-Pay for it when the gutters sit above one story, the ground is soft or sloped, or you cannot keep three points of contact: a 2014 CDC report says 43% of fatal falls over ten years involved a ladder. Clean them yourself on one story, with the ladder on firm, level ground. We clean gutters around Annapolis, quoted per house.
+Consider hiring help when the gutters are above one story, the ground is soft or sloped, or the work is beyond your safe reach. A sound ladder, stable footing and three points of contact matter at any height. We clean gutters around Annapolis, quoted for your house.
 
-## What the ladder adds
+## Before you climb
 
-43%
+3 points
 
-Of fatal falls over ten years involved a ladder, CDC reported in 2014.
+Keep two hands and a foot, or two feet and a hand, on the ladder while climbing.
 
-OSHA: look the ladder over first, stand it on level ground, never on a box, never on the top three rungs.
+Inspect the ladder before use and follow its labels. Remove a damaged ladder from use.
 
-Look up for power lines before you lift it; keep a metal ladder away from them.
+Do not stand on the top three rungs of a straight or extension ladder. Keep metal ladders away from power lines and exposed electrical equipment.
 
 *Drawing of two ladders against a gutter: on the first the top three rungs are crossed out, on the second the ladder stands on a box and the box is crossed out*
 
-- **1 in 5** fall injuries among workers involve a ladder
-- **Under 16 ft** the height of nearly 90% of on-the-job ladder falls treated in emergency rooms
+- **Level ground** Use a stable surface, never a box or other unstable base.
+- **Look up** Check for overhead power lines before handling a ladder.
 
-Sources: CDC Morbidity and Mortality Weekly Report (2014) and OSHA, Portable Ladder Safety. Checked on 11 October 2026.
+Source: OSHA Portable Ladder Safety. Checked October 30, 2026.
 
 ## If you would rather stay down.
 
@@ -59,11 +59,11 @@ Sources: CDC Morbidity and Mortality Weekly Report (2014) and OSHA, Portable Lad
 
 ### Is there a way to clean gutters without climbing a ladder?
 
-Sometimes. CDC's first step for employers who want fewer ladder falls is to plan a job so that as much of it as possible is finished on the ground. The same holds at home. If a tool lets you reach a one-story gutter with both feet on the lawn, use it. If the job cannot be done without climbing higher than you are steady, that is the point to hire it out.
+Sometimes. A tool that reaches the gutter while you stay on the ground can avoid a climb. Check that it suits your gutter and follow the instructions. If the job needs a ladder and you cannot reach safely, hire help.
 
 ### How high is too high to clean my own gutters?
 
-There is no official cutoff, and low is not the same as safe: in CDC's study of on-the-job ladder falls, 6 to 10 feet was the most common height for the treated falls and for the fatal ones. A second story, which takes an extension ladder, is a fair place to hand the job over. We quote gutter cleaning for homes between Severna Park and Edgewater, and for Stevensville and Chester on Kent Island.
+Height is only part of the decision. Check the ground, ladder condition, overhead wires and whether you can reach without leaning. A second story or a job beyond your safe reach is a reason to hire help. We quote gutter cleaning around Annapolis and on Kent Island.
 
 ### Is a metal ladder safe for cleaning gutters?
 
@@ -80,6 +80,10 @@ No. OSHA's card says the rungs, steps and feet of a ladder must be free of anyth
 ### What does a gutter cleaner do that I could not?
 
 Nothing secret. With a gutter cleaning from us, the leaves and debris come out and rain can reach the downspout again. What you are paying for is someone else's time at the top of the ladder, quoted for your house.
+
+Sources and further reading
+
+- [OSHA ladder safety](https://www.osha.gov/sites/default/files/publications/PORTABLE_LADDER_QC.pdf)
 
 ## Get a free estimate.
 

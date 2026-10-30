@@ -3,7 +3,7 @@
 > Aerate and overseed a tall fescue lawn in Maryland from mid-August to mid-October, ahead of November frosts. We do this work around Annapolis. Free estimates.
 
 Page: https://fannonpropertyservices.com/guides/when-to-aerate-and-overseed/  
-Last changed: 2026-10-11
+Last changed: 2026-10-30
 
 ---
 
@@ -71,6 +71,11 @@ Keep the top inch of soil moist with light, frequent watering until the grass is
 ### What does aeration and overseeding do for a lawn?
 
 Together they ease packed soil and thicken thin grass. Core aeration pulls plugs of soil from the lawn. That opens channels for air and water, and the exposed soil helps seed germinate. Fall overseeding fills bare and thin spots in a tall fescue lawn, which helps crowd out weeds.
+
+Sources and further reading
+
+- [UMD lawn calendar](https://extension.umd.edu/resource/lawn-maintenance-calendar)
+- [UMD new lawn care](https://extension.umd.edu/resource/starting-new-lawn)
 
 ## Get a free estimate.
 

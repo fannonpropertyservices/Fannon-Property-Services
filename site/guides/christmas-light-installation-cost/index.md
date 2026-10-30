@@ -3,13 +3,13 @@
 > Christmas lights start at $650 near Annapolis for a single-story front roofline. A second story, more rooflines, bushes and trees are priced in a free estimate.
 
 Page: https://fannonpropertyservices.com/guides/christmas-light-installation-cost/  
-Last changed: 2026-10-11
+Last changed: 2026-10-30
 
 ---
 
-# What Christmas light installation costs here.
+# Christmas light installation costs.
 
-$650 is where it starts: one story, lights along the front roofline. Everything past that line gets a price in your free estimate.
+From $650 for a single-story front roofline. Your free estimate prices any additional rooflines, bushes and trees.
 
 - Insured
 - Locally owned
@@ -19,37 +19,35 @@ $650 is where it starts: one story, lights along the front roofline. Everything 
 
 *Two stories and a garage: priced in the estimate.*
 
-## The one price we print
+## Starting price
 
 $650
 
-A single-story home, lights on the front roofline, nothing added.
+A single-story front roofline, with the seasonal light lease included.
 
-One payment leases the strings and covers the design, the timer, fixes in season, the January takedown and a year of storage.
+One payment leases the lights and includes design, installation on a timer, in-season maintenance, January takedown and storage until next season.
 
-The estimate needs a name, a phone or email, the address, and your colors or a design request.
+For your estimate, send your name, a phone number or email, the property address and the areas you want lit. Share your colors or ask us for a design.
 
 *Drawing of a one-story house with a lit front roofline, marked $650 starts here, beside a two-story house drawn in dashed lines with a dashed bush and tree, marked priced in your estimate*
 
 - **1** payment for the whole season
-- **0** strings to buy: the lights are leased
-- **January** takedown, then storage until next year
+- **Leased** lights for your seasonal installation
+- **January** takedown, then storage until next season
 
-### What do Christmas light installers charge in Anne Arundel County?
+### How much does Fannon's Christmas light installation cost?
 
-Around Annapolis we start at $650: a single-story home, lit along the front roofline. Past that, what you want lit sets the price: a second story, more rooflines, bushes and trees are each priced for your house in a free estimate, across Anne Arundel County or on Kent Island.
+Christmas light installation starts at $650 for a single-story front roofline. One payment includes the seasonal light lease, design, installation on a timer, maintenance, takedown after New Year's and storage. Additional rooflines, bushes and trees are priced in your free estimate.
 
-Source: Fannon Property Services, its own price for the 2026 season. Checked on 11 October 2026.
+## What changes the price.
 
-## What moves the price past $650.
+Additional rooflines, bushes and trees are priced for your property.
 
-No figure is printed for these. Each is priced for your house, in the estimate.
+- ![A large white house at night with its roof peaks and garage outlined in warm white lights](https://fannonpropertyservices.com/assets/own/portfolio/img_0114.webp) **Additional rooflines.** A second story, the sides of the house or a garage can be included in your estimate.
+- ![A hedge filled with multicolor lights](https://fannonpropertyservices.com/assets/own/portfolio/img_0474.webp) **Bushes and hedges.** Add bushes or hedges to your lighting design and estimate.
+- ![Red, green and white lights wrapped around a tree](https://fannonpropertyservices.com/assets/own/portfolio/img_0685.webp) **Trees.** Ask for lights on tree trunks and canopies as part of your estimate.
 
-- ![A large white house at night with its roof peaks and garage outlined in warm white lights](https://fannonpropertyservices.com/assets/own/portfolio/img_0114.webp) **A second story, or more rooflines.** Each roofline lit beyond the front one adds to the price.
-- ![A hedge filled with multicolor lights](https://fannonpropertyservices.com/assets/own/portfolio/img_0474.webp) **Bushes and hedges.** Lit along with the roofline, and priced in your estimate.
-- ![Red, green and white lights wrapped around a tree](https://fannonpropertyservices.com/assets/own/portfolio/img_0685.webp) **Trees.** Wrapped trunks and canopies, priced the same way.
-
-## Before you ask
+## Plan your lights
 
 - [Measure your roofline](https://fannonpropertyservices.com/christmas-lights/measure-your-roofline/)
 - [Christmas lights](https://fannonpropertyservices.com/christmas-lights/)
@@ -61,25 +59,25 @@ No figure is printed for these. Each is priced for your house, in the estimate.
 
 ## Questions about the price
 
-### Is $650 an average price for Christmas lights, or the lowest?
+### What does the $650 starting price cover?
 
-The lowest. $650 is our minimum for Christmas light installation: a single-story home, the front roofline and nothing else. We print no average and no typical figure, since an average of other houses would tell you little about yours. Your free estimate gives the number for your own house.
+A single-story front roofline. The price includes the seasonal lease of the lights, design, installation on a timer, in-season maintenance, takedown and storage.
 
-### Why is there no price per foot of Christmas lights?
+### Do you price Christmas lights by the foot?
 
-Because we price Christmas lights by what gets lit, the roofline, the bushes, the trees, and not by a printed rate per foot. A length still helps you describe the job, and our roofline tool adds one up from measurements taken on the ground.
+We price the design by the areas you want lit, including rooflines, bushes and trees. Roofline measurements help describe the job; your free estimate gives the price for your property.
 
-### Does it cost more to light the back of the house too?
+### Does it cost more to light the back of the house?
 
-Yes. The $650 start covers the front roofline alone, on a single-story home. The back, the sides and any other roofline you want lit are priced on top of it in your free estimate, and the estimate can set the front alone beside a fuller design so you can choose.
+Yes. The $650 starting price covers a single-story front roofline. Additional rooflines, including the back and sides, are priced in your estimate.
 
 ### Do you charge separately for the design?
 
-No. The design is part of the one payment for Christmas lights. We hang lights in Annapolis, through the rest of Anne Arundel County and over the bridge on Kent Island.
+No. The design is included in the seasonal light lease.
 
 ## Get a free estimate.
 
-Send us the address and your colors. We put a price on your house, and a few options if you want them.
+Send the address and the areas you want lit. Tell us your colors or ask us for a design.
 
 [Call (443) 223-8643](tel:+14432238643)
 

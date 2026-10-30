@@ -3,7 +3,7 @@
 > Gutter cleaning and gutter guard installation for homes in Anne Arundel County and Kent Island. One call to Fannon Property Services for a free estimate.
 
 Page: https://fannonpropertyservices.com/gutters/  
-Last changed: 2026-10-11
+Last changed: 2026-10-30
 
 ---
 
@@ -19,6 +19,8 @@ We clear out the leaves and debris, and we install gutter guards. Free estimates
 *A gutter after cleaning.*
 
 ## Before and after.
+
+We cleared the leaves from this gutter. The photos show the same job from different angles.
 
 - ![A gutter packed with wet leaves at the edge of a metal roof](https://fannonpropertyservices.com/assets/own/portfolio/img_0368.webp) Before: full of leaves.
 - ![A gutter cleared of leaves, seen from the ladder](https://fannonpropertyservices.com/assets/own/portfolio/img_0439.webp) After: the same gutter, cleaned out.

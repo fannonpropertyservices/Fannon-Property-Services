@@ -3,7 +3,7 @@
 > Leave healthy perennials and ornamental grasses standing all winter and cut them in early spring, says University of Maryland Extension. Diseased ones go now.
 
 Page: https://fannonpropertyservices.com/guides/cut-back-perennials-fall-or-spring/  
-Last changed: 2026-10-11
+Last changed: 2026-10-30
 
 ---
 
@@ -63,6 +63,10 @@ A short-lived perennial, and sometimes an annual or a biennial. The common Maryl
 ### Can the cut stems stay in the yard?
 
 Yes. University of Maryland Extension suggests gathering trimmings into a pile and leaving them outside rather than disposing of them, so overwintering bees and other insects inside can still emerge in spring. Praying mantis egg cases are often fixed to stems too, and are left outdoors to hatch.
+
+Sources and further reading
+
+- [UMD perennial care](https://extension.umd.edu/resource/perennials-selection-planting-and-care)
 
 ## Get a free estimate.
 

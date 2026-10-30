@@ -3,7 +3,7 @@
 > Mowing a tall fescue lawn in Maryland starts in spring, March to April, and can run to late November. Cut at 3 to 4 inches. We mow lawns around Annapolis.
 
 Page: https://fannonpropertyservices.com/guides/maryland-lawn-calendar/  
-Last changed: 2026-10-10
+Last changed: 2026-10-30
 
 ---
 
@@ -84,6 +84,11 @@ No. A wet lawn should not be mowed, so wait until it is dry. Wet soil is also ea
 ### When is the last day to fertilize a lawn in Maryland?
 
 November 15. That is the cutoff date in Maryland's lawn fertilizer law, so fall fertilizer goes down before it. The same law does not allow fertilizer to be used to melt ice.
+
+Sources and further reading
+
+- [UMD lawn calendar](https://extension.umd.edu/resource/lawn-maintenance-calendar)
+- [UMD lawn maintenance](https://extension.umd.edu/resource/maintaining-established-lawn)
 
 ## Get a free estimate.
 

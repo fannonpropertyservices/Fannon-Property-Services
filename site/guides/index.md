@@ -3,7 +3,7 @@
 > When to aerate and seed a Maryland lawn, how deep to lay mulch, how often to clean gutters and what to do about standing water. Free estimates.
 
 Page: https://fannonpropertyservices.com/guides/  
-Last changed: 2026-10-11
+Last changed: 2026-10-30
 
 ---
 
@@ -39,7 +39,7 @@ When to seed, how deep to mulch, how often to clean gutters, and what to do when
 - ![Drawing of a roof edge with a gutter packed with leaves, rain water spilling over its front and landing against the house wall](https://fannonpropertyservices.com/assets/drawn/clog-overflow.svg) [What clogged gutters cause](https://fannonpropertyservices.com/guides/what-happens-if-gutters-are-clogged/) Water at the wall, in the basement and in the ice at the eave.
 - ![Drawing of a downspout turning into an extension pipe that runs out along a lawn sloping away from the house, with a splash block at its end](https://fannonpropertyservices.com/assets/drawn/dsp-extension.svg) [Where downspouts should drain](https://fannonpropertyservices.com/guides/where-should-downspouts-drain/) At least 5 feet out, onto ground that slopes away.
 - ![Drawing of a gutter cut open, leaves jammed where it meets the downspout and water spilling over the far end](https://fannonpropertyservices.com/assets/drawn/go-outlet-clog.svg) [Gutters overflowing in heavy rain](https://fannonpropertyservices.com/guides/gutters-overflowing-in-heavy-rain/) A blocked outlet, a run with no slope or a gutter too small.
-- ![A gutter cleared of leaves, seen from the ladder](https://fannonpropertyservices.com/assets/own/portfolio/img_0439.webp) [Clean gutters yourself or hire someone](https://fannonpropertyservices.com/guides/clean-gutters-yourself-or-hire/) One story, firm ground, a sound ladder: do it. Higher: hire it.
+- ![A gutter cleared of leaves, seen from the ladder](https://fannonpropertyservices.com/assets/own/portfolio/img_0439.webp) [Clean gutters yourself or hire someone](https://fannonpropertyservices.com/guides/clean-gutters-yourself-or-hire/) Ladder setup, safe reach and when to hire a gutter cleaner.
 - ![A brick-edged flower bed in bloom beside a mown lawn](https://fannonpropertyservices.com/assets/own/portfolio/img_0581.webp) [How deep to lay mulch](https://fannonpropertyservices.com/guides/how-deep-should-mulch-be/) 2 to 3 inches, and never against the bark.
 - ![Drawing of black-eyed Susan stems left standing in snow with their dark seed heads, a small bird perched on one](https://fannonpropertyservices.com/assets/drawn/cb-susan-standing.svg) [Cut back perennials in fall or spring](https://fannonpropertyservices.com/guides/cut-back-perennials-fall-or-spring/) Spring, for healthy plants. Only diseased stems come down in fall.
 
@@ -50,7 +50,7 @@ When to seed, how deep to mulch, how often to clean gutters, and what to do when
 - ![Drawing of a clock reading 4:46 beside a lit roofline with the sun setting behind it](https://fannonpropertyservices.com/assets/drawn/xl-sunset-clock.svg) [When to hang Christmas lights](https://fannonpropertyservices.com/guides/when-to-put-up-and-take-down-christmas-lights/) Up on a dry November roof, on by your calendar, down after New Year's.
 - ![Two of our crew on the roof of a white two-story home, with two ladders up at the front](https://fannonpropertyservices.com/assets/own/home-hero-tall.webp) [Hire an installer or hang your own](https://fannonpropertyservices.com/guides/christmas-light-installer-or-diy/) One story and firm ground: hang your own. A ladder job: hire it.
 - ![Red, green and white lights on a roofline and a tree](https://fannonpropertyservices.com/assets/own/portfolio/img_6579.webp) [Lease or buy your lights](https://fannonpropertyservices.com/guides/lease-or-buy-christmas-lights/) Buy to hang them yourself for years. Lease to own nothing to do.
-- ![Red and white lights across the front of a two-story home and its garage](https://fannonpropertyservices.com/assets/own/portfolio/img_0583.webp) [Christmas light installation cost](https://fannonpropertyservices.com/guides/christmas-light-installation-cost/) From $650: one story, front roofline. The rest is in the estimate.
+- ![Red and white lights across the front of a two-story home and its garage](https://fannonpropertyservices.com/assets/own/portfolio/img_0583.webp) [Christmas light installation cost](https://fannonpropertyservices.com/guides/christmas-light-installation-cost/) The $650 roofline package and what changes your quote.
 
 ## Local rules.
 

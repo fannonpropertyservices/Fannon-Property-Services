@@ -3,7 +3,7 @@
 > Turf-type tall fescue is what University of Maryland Extension recommends for most homes. What to read on the seed tag, from germination to weed seed.
 
 Page: https://fannonpropertyservices.com/guides/best-grass-seed-for-maryland/  
-Last changed: 2026-10-11
+Last changed: 2026-10-30
 
 ---
 
@@ -67,6 +67,10 @@ A mix combines at least two species, such as tall fescue with fine fescue. A ble
 ### How much grass seed does a lawn take?
 
 For a new tall fescue lawn, 6 to 8 pounds per 1,000 square feet of bare soil, by University of Maryland Extension's rate, spread half in one direction and half across it, between mid-August and mid-October. A cheap bag with low purity and germination takes more seed to do the same job: Penn State's pure live seed arithmetic, purity times germination, shows whether the bargain is one.
+
+Sources and further reading
+
+- [UMD grass seed guidance](https://extension.umd.edu/resource/lawn-grasses-grown-maryland)
 
 ## Get a free estimate.
 

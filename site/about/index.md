@@ -3,7 +3,7 @@
 > We are a locally owned, insured company based in Annapolis, Maryland. We look after the outside of homes and commercial properties across Anne Arundel County.
 
 Page: https://fannonpropertyservices.com/about/  
-Last changed: 2026-10-14
+Last changed: 2026-10-10
 
 ---
 
