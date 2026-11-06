@@ -3,7 +3,7 @@
 > Hanukkah lights, Diwali lights and holiday light installation for Ramadan and Eid, Kwanzaa and New Year near Annapolis, MD. From $650. Free estimates.
 
 Page: https://fannonpropertyservices.com/holiday-lighting/  
-Last changed: 2026-10-10
+Last changed: 2026-11-05
 
 ---
 
@@ -24,8 +24,6 @@ Lights for Hanukkah, Diwali, Ramadan and Eid, Kwanzaa and New Year, in Annapolis
 $650
 
 For a single-story home with lights on the front roofline. The same price as our Christmas lights.
-
-- **Save 10%** when you book by October 31.
 
 ### How much does holiday light installation cost near Annapolis?
 

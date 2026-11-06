@@ -3,7 +3,7 @@
 > Lawn and landscape care, pressure washing, gutters, drainage and Christmas lights for homes in Annapolis and Anne Arundel County. One company, free estimates.
 
 Page: https://fannonpropertyservices.com/  
-Last changed: 2026-10-10
+Last changed: 2026-11-05
 
 ---
 
@@ -117,8 +117,6 @@ Design, installation, seasonal fixes, takedown and storage, all in one payment.
 ## Christmas lights from $650.
 
 For the front roofline of a single-story home.
-
-Book by October 31 and save 10%.
 
 [What is included](https://fannonpropertyservices.com/christmas-lights/)
 
